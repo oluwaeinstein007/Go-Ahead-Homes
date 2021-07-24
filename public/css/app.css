@@ -10017,6 +10017,8 @@ h3 {
   width: 100%;
   position: fixed;
   z-index: 100;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .showcase {
@@ -10107,8 +10109,8 @@ h3 {
   left: 0;
   width: 100%;
   height: 100%;
-  -o-object-fit: fill;
-     object-fit: fill;
+  -o-object-fit: cover;
+     object-fit: cover;
   opacity: 0.95;
 }
 
