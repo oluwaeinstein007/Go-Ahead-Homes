@@ -23,7 +23,7 @@
             }
         </style>
     </head>
-    <body class="antialiased">
+    <body>
 
     <div id="preloader">
 

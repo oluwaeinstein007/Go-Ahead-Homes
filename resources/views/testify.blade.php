@@ -17,7 +17,7 @@
                     {{ __('You are logged in!') }}
 
                 <div class="justify-content-center">
-                    <a href="{{ route('posts') }}" class="ml-4 text-sm text-gray-700 underline">POST/DELETE a newsletter</a> <br>
+                   
                     <a href="#">POST/DELETE a testimonial</a>
                 </div>
 
