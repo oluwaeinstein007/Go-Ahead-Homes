@@ -68,10 +68,14 @@
                     </div>
 
                     <div class="card-body">
+             
                        <div>
                        <img controls style="width:150px;height:150px;" 
-                        src="{{ asset($post["picture"]) }}" id="vivid"></img>
+                        src="{{ asset('public/'.$post["picture"]) }}" id="vivid"></img>
                        </div>
+
+                      
+
                        {{$post->descrip}}
 
                        <br> <br> <br>
