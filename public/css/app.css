@@ -10121,3 +10121,7 @@ h3 {
   background: #03a9f4;
   mix-blend-mode: overlay;
 }
+
+.error {
+  color: #e3342f;
+}

@@ -27,7 +27,7 @@
                             <label for="title">Title</label>
                             <input type="text" class="form-control" name="title" id="" placeholder="Input Topic">
                                 @error('title')
-                                    <div>{{$message}}</div>
+                                    <div class="error text-small ">{{$message}}</div>
                                 @enderror
                         </div>
 
@@ -68,7 +68,10 @@
                     </div>
 
                     <div class="card-body">
-                       
+                       <div>
+                       <img controls style="width:150px;height:150px;" 
+                        src="{{ asset($post["picture"]) }}" id="vivid"></img>
+                       </div>
                        {{$post->descrip}}
 
                        <br> <br> <br>
