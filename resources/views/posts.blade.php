@@ -70,9 +70,19 @@
                     <div class="card-body">
                        
                        {{$post->descrip}}
+
+                       <br> <br> <br>
+
+                       <form  method="post" action="{{ route('posts', $post) }}">
+                            @csrf
+                            @method('DELETE')
+                            <button class="btn btn-danger rounded">DELETE</button>
+                        </form>
                     </div>
                 
             </div>
+
+                    
                  @endforeach
                  {{$posts->links()}}
             @else
