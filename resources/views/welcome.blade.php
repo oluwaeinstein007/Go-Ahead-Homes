@@ -43,7 +43,7 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body front">
         <p>This policy outlines how Go Ahead Homes will continue to execute the safe delivery of 
 our service during this COVID-19 pandemic and what actions will be taken in the event 
 of an outbreak within our service.
@@ -56,7 +56,7 @@ COVID-19</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <a href="{{ url('/covid') }}"><button type="button" class="btn btn-primary">Read More</button></a>
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@ COVID-19</p>
   
    <h2>WELCOME TO GO AHEAD HOMES</h2>
 
-        <a href="/first" class="ml-4 text-sm text-gray-700 underline"><button>come in</button></a>
+        <a href="{{ url('/first') }}"><button>come in</button></a>
        
    </div>
         <div class="overlay"></div>

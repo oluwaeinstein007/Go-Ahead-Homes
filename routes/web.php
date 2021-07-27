@@ -39,6 +39,9 @@ Route::get('/about', function(){
 Route::get('/first', function(){
     return view('first');
 });
+Route::get('/covid', function(){
+    return view('covid');
+});
 Route::get('/contact', function(){
     return view('contact');
 });
