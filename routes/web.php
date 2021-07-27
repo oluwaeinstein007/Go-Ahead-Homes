@@ -36,6 +36,9 @@ Route::get('/testify', function(){
 Route::get('/about', function(){
     return view('about');
 });
+Route::get('/first', function(){
+    return view('first');
+});
 Route::get('/contact', function(){
     return view('contact');
 });

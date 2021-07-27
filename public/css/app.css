@@ -10010,57 +10010,43 @@ h3 {
   font-family: "Poppins", sans-serif;
 }
 
+/*
 #preloader {
-  background: #000 url("/svg/animated-web-preloader.gif") no-repeat center center;
-  background-size: 100%;
-  height: 100vh;
+    background: #000 url("/svg/animated-web-preloader.gif") no-repeat center center;
+    background-size: 100%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+*/
+.welcome {
+  background: url("/svg/youth.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  height: 100%;
   width: 100%;
-  position: fixed;
-  z-index: 100;
 }
 
-.showcase {
-  position: absolute;
-  left: 0;
-  width: 100%;
-  min-height: 100vh;
-  padding: 100px;
-  display: flex;
-  justify-content: space-between;
-  align-content: center;
-  background: #111;
-  color: #fff;
-  z-index: 2;
+.front {
+  z-index: 2000;
 }
 
-.showcase header {
+h2 {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
-  padding: 40px 100px;
-  padding-bottom: 200px;
+  color: #e3342f;
   z-index: 3;
-  display: flex;
+  padding: 50px;
+  padding: auto;
+  font-size: 3em;
+  font-weight: 700;
+  position: relative;
+  line-height: 1em;
   align-content: center;
   justify-content: space-between;
-}
-
-.name {
-  text-transform: uppercase;
-  cursor: pointer;
-}
-
-.text {
-  position: relative;
-  z-index: 5;
-}
-
-.text h2 {
-  font-size: 5em;
-  font-weight: 800;
-  line-height: 1em;
-  text-transform: uppercase;
 }
 
 .text h3 {
@@ -10079,13 +10065,15 @@ h3 {
   text-transform: uppercase;
 }
 
-.text button {
+button {
   font-size: 1em;
   display: inline-block;
   padding: 10px 30px;
+  margin: auto;
   text-decoration: none;
-  color: #fff;
+  color: #e3342f;
   margin-top: 10px;
+  position: relative;
   background: none;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -10097,19 +10085,14 @@ h3 {
   box-shadow: 0px 3px 5px rgba(1, 1, 1, 0.2);
 }
 
-.text button:hover {
+button:hover {
   letter-spacing: 6px;
+  background-color: #03a9f4;
 }
 
-.showcase video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-  opacity: 0.95;
+h5,
+p {
+  color: #000;
 }
 
 .overlay {
