@@ -26,16 +26,11 @@
         
     </head>
       <body>
-    
-    <div class="card justify-content-center mt-4 mr-2 ml-2">
-      <div class="card-title">
-
+ 
+      <div class="card-title justify-content-center mt-4 mr-5 ml-2 d-block">
+        Covid protocol
       </div>
-      <div class="card-body">
-
-      </div>
-      
-    </div>
+     
 
     
 
