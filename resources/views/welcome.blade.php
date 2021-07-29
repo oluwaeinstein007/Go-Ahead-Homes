@@ -66,7 +66,6 @@ COVID-19</p>
 
    </div>
 
-<<<<<<< HEAD
    <!--<img src="{{asset('images/Project-Prints.png')}}" class="img-fluid" alt="Responsive image">-->
    <div class="logo">
         <h3>Go Ahead Homes</h3>
@@ -81,13 +80,6 @@ COVID-19</p>
 
         
 
-=======
-   <img src="{{asset('images/Project-Prints.png')}}" class="img-fluid" alt="Responsive image">
-   <h2>WELCOME TO GO AHEAD HOMES</h2>
-
-        <a href="{{ url('/first') }}"><button>come in</button></a>
-
->>>>>>> 3f3dc7faae1250fc80bfdac9fa17d14a18712592
    </div>
         <div class="overlay"></div>
 
