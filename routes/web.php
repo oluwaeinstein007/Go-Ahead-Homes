@@ -48,3 +48,9 @@ Route::get('/contact', function(){
 Route::get('/services', function(){
     return view('services');
 });
+Route::get('/testimonials', function(){
+    return view('testimonials');
+});
+Route::get('/news', function(){
+    return view('news');
+});

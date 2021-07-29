@@ -37,22 +37,22 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/about') }}">Home</a>
+                        <a class="nav-link" href="{{ url('/first') }}">Home</a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/about') }}">About</a>
                         </li>
                         <li class="nav-item activate">
-                        <a class="nav-link active" href="{{ url('/contact') }}">Services</a>
+                        <a class="nav-link active" href="{{ url('/services') }}">Services</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/portfolio') }}">Testimonials</a>
+                        <a class="nav-link" href="{{ url('/testimonials') }}">Testimonials</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/portfolio') }}">News</a>
+                        <a class="nav-link" href="{{ url('/news') }}">News</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/portfolio') }}">Contact Us</a>
+                        <a class="nav-link" href="{{ url('/contact') }}">Contact Us</a>
                         </li>
                     </ul>
                 </div>
