@@ -27,7 +27,7 @@
                             <label for="title">Title</label>
                             <input type="text" class="form-control" name="title" id="" placeholder="Input Topic">
                                 @error('title')
-                                    <div class="error text-small ">{{$message}}</div>
+                                    <div class="error text-small">{{$message}}</div>
                                 @enderror
                         </div>
 
@@ -35,7 +35,7 @@
                             <label for="descrip">Full Gist</label>
                             <textarea type="text" class="form-control" cols="50" rows="7" name="descrip" id="descrip" placeholder="Full Gist"></textarea>
                                 @error('descrip')
-                                    <div>{{$message}}</div>
+                                    <div class="error text-small">{{$message}}</div>
                                 @enderror
                         </div>
                         <div class="form-group">
@@ -52,7 +52,7 @@
                         <div class="form-group">
                                 <input type="file" name="picture" id="picture">
                         </div>
-                                 <button class="btn btn-outline-success rounded-pill float-right" name="post" type="submit">Upload Tutorial Videos</button>
+                                 <button class="btn btn-outline-success rounded-pill float-right" name="post" type="submit">Upload Post</button>
                 </form>
                     
                 </div>
@@ -64,7 +64,7 @@
                 @foreach($posts as $post)
             <div class="card mb-4">
                     <div class="card-header">
-                    {{$post->title}} by <a href="#">Lanre</a> <span class="text-muted">{{$post->created_at->diffForHumans()}}</span>
+                    {{$post->title}} by <a href="#">{{$post->user->name}}</a> <span class="text-muted">{{$post->created_at->diffForHumans()}}</span>
                     </div>
 
                     <div class="card-body">
@@ -80,7 +80,7 @@
 
                        <br> <br> <br>
 
-                       <form  method="post" action="{{ route('posts', $post) }}">
+                       <form action="{{ route('posts.destroy', $post) }}" method="post">
                             @csrf
                             @method('DELETE')
                             <button class="btn btn-danger rounded">DELETE</button>

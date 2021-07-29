@@ -26,6 +26,42 @@
         
     </head>
       <body>
+
+      <nav class="navbar navbar-expand-sm navbar-dark bg-dark" text-color="red">
+                <div class="container">
+                    <a href="{{ url('/') }}" class="navbar-brand">Go Ahead Homes</a>
+                    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item activate">
+                        <a class="nav-link active " href="{{ url('/about') }}">Home</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="{{ url('/about') }}">About</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="{{ url('/contact') }}">Services</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="{{ url('/portfolio') }}">Testimonials</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="{{ url('/portfolio') }}">News</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="{{ url('/portfolio') }}">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+        </nav>
+
+     
+
+
+
     
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
