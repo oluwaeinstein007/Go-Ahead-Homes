@@ -72,7 +72,7 @@
 
 
                    <div class="container container-sm">
-                    <div class="block-1">
+                    <div class="block-1 email">
                     <form method="post" action="" enctype="multipart/form-data">
                                   @csrf
                             

@@ -58,6 +58,77 @@
                 </div>
         </nav>
 
+
+        <div class="services-page pb-5">
+            <div class="plate container container-sm mt-3">
+                <h4 class="justify-content-center">Our Services</h4>
+                <ul>
+                    <div class="block-1">
+                    <li>Young people involved with the youth offending service</li>
+                    <li>Unaccompanied Asylum Seeking Children (UASC)</li>
+                    <li>Young people at risk of Child Sexual Exploitation (CSE)</li>
+                    </div>
+            
+                    <div class="block-1">
+                    <li>Young people involved with the youth offending service</li>
+                    <li>Unaccompanied Asylum Seeking Children (UASC)</li>
+                    <li>Young people at risk of Child Sexual Exploitation (CSE)</li>
+                    </div>
+                </ul>
+            </div>
+        </div>
+
+
+        <br>
+
+                    
+      <div class="block-1">
+      <div class="plate container-sm container">
+            <h3>Our Services</h3>
+            <p>We strive to create a warm, friendly and homely environment to enable our young people to feel safe and valued. Following a 6 month period of positive progress young people are encouraged and supported to create a personalised feature wall in their rooms.
+A sense of belonging and stability is imperative for our young people who are exploring their identities following their different experiences of being in care and so we go the extra mile to create a warm and nurturing environment with high standards of décor, good quality furniture and homely soft furnishings.
+Our service provides 24/7 support, including onsite staff (24hrs accommodation), and out off hours emergency call facility. Support , advice and guidance can be sought at any time from staff and residents within the organisation . Staffing and support are provided in accordance with the young people’s allocated hours of support and level of needs.</p>
+        </div>
+
+
+        <br>
+
+        <div class="plate container-sm container">
+            <h3>MENTAL HEALTH AND WELL-BEING SUPPORT</h3>
+            <p>All young people will be registered with the local GP, Dentist and opticians and will be supported by staff to arrange and attend appointments. Keywork sessions will provide young people with information on healthy living, exercise, alcohol and substance misuse, sexual health, general health and personal hygiene. A personal trainer will be available to undertake group sessions within the placement once a week.</p>
+        </div>
+
+      </div>
+        <br>
+
+       <div class="block-1">
+       <div class="plate container-sm container">
+            <h3>WORK EXPERIENCE AND OPPORTUNITIES FOR YOUNG PEOPLE WHO ARE NEET (not in education, employment or training)</h3>
+            <p>Staff encourage and support our young people to set and achieve positive goals in education, training and employment. We recognise that young people may experience difficulties within education settings and therefore support them to explore other avenues such as training programmes, apprenticeships and business workshops. Staff will work in partnership with the young person and their support team including social workers or personal advisors to achieve the
+outcomes of the personal education plan. Go Ahead Homes have established links with local businesses and successful entrepreneurs from various sectors (including construction and
+carpentry, hair and beauty, health and fitness and retail) to deliver workshops and provide work experience for our young people in various industries in light of developing employment skills and promoting further work and career opportunities.</p>
+        </div>
+
+        <br>
+
+        <div class="plate container-sm container">
+            <h3>All our provisions are monitored by CCTV and include the following</h3>
+            <p>
+                <ul>
+                    <li>24HRS ACCOMMODATION</li>
+                    <li>SHARED ACCOMMODATION</li>
+                    <li>STAND - ALONE ACCOMMODATION</li>
+                    <li>MOTHER AND BABY ACCOMMODATION.</li>
+                    <li>YOUTH MENTORING</li>
+                </ul>
+            </p>
+        </div>
+       </div>
+
+
+
+        
+
      
 
     

@@ -58,6 +58,24 @@
                 </div>
         </nav>
 
+
+        <div class="block-1">
+            <div class="container-sm container mt-4">
+                <h3>About Firm</h3>
+                <p>Go Ahead Homes is a private organisation dedicated to supporting young care leavers aged 16+ to make a positive transition from residential or foster care into independent living. 
+                <br>
+                We offer 24/7 supported accommodation to each of our service users which comprise of mixed gender homes, single gender homes and mother and baby homes. 
+                <br>
+                A sense of belonging and stability is imperative for our young people who are exploring their identities following their different experience of being in care, so we go the extra mile to create a nurturing environment that aids in achieving personal, educational, financial and mental betterment.</p>
+            </div>
+        </div>
+
+        <div class="block-1">
+        <div class="container-sm container homes">
+            <img src="{{asset('images/Project-Prints.png')}}" class="img-fluid" alt="Responsive image">
+            </div>
+        </div>
+
      
 
     

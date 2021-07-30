@@ -10027,12 +10027,19 @@ h3 {
   width: 100%;
 }
 
+.email {
+  border: 1px solid #000;
+  padding: 30px;
+  border-radius: 5px;
+}
+
 .plate {
   width: 80%;
   background-color: #fff;
   border-radius: 30px;
   padding: 2rem 2rem;
   border: 30px;
+  position: relative;
   justify-content: center;
   position: relative;
   align-content: center;
@@ -10093,6 +10100,16 @@ h3 {
   width: 100%;
 }
 
+.services-page {
+  background: url("/svg/youth.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
 @media (min-width: 700px) {
   .block-1 {
     float: left;
@@ -10141,22 +10158,6 @@ h2 {
   align-content: center;
   justify-content: space-between;
   z-index: 100;
-}
-
-.text h3 {
-  font-size: 4em;
-  font-weight: 700;
-  line-height: 1em;
-  text-transform: uppercase;
-}
-
-.text p {
-  font-size: 1.1em;
-  margin: 20px 0;
-  max-width: 700px;
-  font-weight: 400;
-  line-height: 1em;
-  text-transform: uppercase;
 }
 
 button {
