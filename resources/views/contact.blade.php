@@ -15,6 +15,7 @@
         <link href="/css/app/.css" rel="stylesheet">
         <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="https://kit.fontawesome.com/7f86e9340c.js"></script>
 
 <!-- Fonts -->
 <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -72,7 +73,6 @@
 
 
                    <div class="container container-sm">
-                    <div class="block-1 email">
                     <form method="post" action="" enctype="multipart/form-data">
                                   @csrf
                             
@@ -89,22 +89,8 @@
                     
                             <button class="r btn btn-danger rounded-pill float-right" name="send_email" type="submit">Send Email</button>
                         </form>
-                    </div>
-<br>
-                    <div class="block-1">
-                           <h3>Address</h3>
-                            <p>Suite 2 Fountain House, Elm Park, Stanmore, United Kingdom</p>
-                            <br>
-                            <h3>Email</h3>
-                            <p>info@goaheadhomes.com</p>
-                            <br>
-                            <h3>Placement</h3>
-                            <p>placements@goaheadhomes.com</p>
-                            <h3>Call</h3>
-                            <p>+44 20 3417 7374</p>
-                    </div>
-
                    </div>
+                   <br>
 
 
         </div>
@@ -114,6 +100,35 @@
 
                         
            
+
+        <footer>
+        <div class="row">
+          <div class="col">
+            <h3>Social Media <div class="underline"><span></span></div></h3>
+            <div class="social">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-linkedin-in"></i>
+            <i class="fab fa-instagram"></i>
+            </div>
+              </div>
+          <div class="col">
+              <h3>OFFICE <div class="underline"><span></span></h3>
+              <p><i class="far fa-building"></i>Suite 2 Fountain House, Elm Park, Stanmore, UK</p>
+              <p class="email-id"><i class="far fa-envelope"></i>info@goaheadhomes.com</p>
+              <p class="email-id"><i class="far fa-envelope"></i>placements@goaheadhomes.com</p>
+              <h4><i class="fas fa-mobile-alt"></i>+44 20 3417 7374</h4>
+          </div>
+          <div class="col">
+            <h3>Partners <div class="underline"><span></span></h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere molestiae soluta, impedit ut, commodi non eveniet, eligendi placeat quam voluptatibus tempore beatae! Nesciunt saepe est laborum facilis, in atque temporibus.</p>
+          </div>
+        </div>
+        <hr>
+        <p class="copyright">Copyright © 2021 Official Go Ahead Homes</p>
+        <p class="copyright">Powered by L'Phi-Hub</p>
+      </footer> 
+        
         
         
     </body>

@@ -72,7 +72,10 @@ COVID-19</p>
         </div>
    
         <div class="welc">
-        <h1>WELCOME TO GO AHEAD HOMES</h1>
+        <h1>WELCOME</h1>
+        <p class="pl-5 pr-5">In the UK, around 40,000 children and young people enter the care system. That’s 109 every day. There are currently around 99,000 children in the UK who are classified as looked-after away from home.
+         <br> In line with the above parameters, our company was formed to render supportive living to help young people retain their independence in their local communities.
+           <br> With strength in 24hrs housing, mental and emotional support, and  skill development opportunities, we provide a nurturing environment to empower our service users with the ability to make informed decisions and strive towards a greater quality of life.</p>
         <div class="click">
         <a href="{{ url('/first') }}" class="btn btn-one"><button>come in</button></a>
         </div>
