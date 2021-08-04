@@ -129,7 +129,7 @@
            
 
 
-        <div class="plate container container-sm mt-3 mb-3 factors">
+        <div class="container container-sm mt-3 mb-3 factors">
         <h2><b>We are an independent care provider who specialise in supported living services and semi independent accommodation for 16+ care leavers across the UK</b></h2>
         <button class="btn btn-info rounded">Know More</button>
         </div>
@@ -138,35 +138,40 @@
 
         <h2 class="factors">OUR WOW FACTORS</h2>
 
-        <div class="plate container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors">
         <h2><b>Person centered care</b></h2>
-        <h4><b>We provide a tailored service approach which target the specific needs of each young person.</b></h4>
+        <img src="/svg/personcent.svg" alt="" class="first-img">
+        <h6><b>We provide a tailored service approach which target the specific needs of each young person.</b></h6>
         </div>
 
         <br>
 
-        <div class="plate container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors">
         <h2><b>Homely environment</b></h2>
-        <h4><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h4>
+        <img src="/svg/homely.svg" alt="" class="first-img">
+        <h6><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h6>
         </div>
 
         <br>
 
-        <div class="plate container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors">
         <h2><b>Character development </b></h2>
-        <h4><b>Every young person leaves our care better than they came in, with an outstanding level of skill set enabling them to live a good quality life of independence</b></h4>
+        <img src="/svg/develop.svg" alt="" class="first-img">
+        <h6><b>Every young person leaves our care better than they came in, with an outstanding level of skill set enabling them to live a good quality life of independence</b></h6>
         </div>
 
         <br>
 
-        <div class="plate container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors">
         <h2><b>Work experience and giving back to the community</b></h2>
-        <h4><b>We partner with the best employers in the community where our young people develop work ethics and understand the importance of the community’s needs.</b></h4>
+        <img src="/svg/work.svg" alt="" class="first-img">
+        <br>
+        <h6><b>We partner with the best employers in the community where our young people develop work ethics and understand the importance of the community’s needs.</b></h6>
         </div>
 
         <br>
 
-        <div class="plate container container-sm mt-3 mb-3 factors">
+        <div class="container container-sm mt-3 mb-3 factors">
 
         <h2><b>Tested and Trusted by Local authorities across London</b></h2>
         </div>
