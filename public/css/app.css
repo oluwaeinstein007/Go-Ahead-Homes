@@ -10259,7 +10259,7 @@ hr {
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
-  position: absolute;
+  position: relative;
   height: 100%;
   width: 100%;
 }

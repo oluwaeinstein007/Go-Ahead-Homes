@@ -62,32 +62,21 @@
 
             @if($posts->count())
                 @foreach($posts as $post)
-            <div class="card mb-4">
-                    <div class="card-header">
-                    {{$post->title}} by <a href="#">{{$post->user->name}}</a> <span class="text-muted">{{$post->created_at->diffForHumans()}}</span>
-                    </div>
-
-                    <div class="card-body">
-             
-                       <div>
-                       <img controls style="width:150px;height:150px;" 
-                        src="{{ asset('public/'.$post["picture"]) }}" id="vivid"></img>
-                       </div>
-
-                      
-
-                       {{$post->descrip}}
-
-                       <br> <br> <br>
-
-                       <form action="{{ route('posts.destroy', $post) }}" method="post">
-                            @csrf
-                            @method('DELETE')
-                            <button class="btn btn-danger rounded">DELETE</button>
-                        </form>
-                    </div>
+                <div class="first container container-sm mt-3 mb-3 factors">
+                    <h2><b>{{$post->title}}</b></h2>
+                    <h6>by <a href="#">{{$post->user->name}}</a> <span>{{$post->created_at->diffForHumans()}}</span></h6>
+                    <img src= src="{{ asset('public/'.$post["picture"]) }}" alt="" class="first-img">
+                    <p><b> {{$post->descrip}}</b></p>
                 
-            </div>
+
+                            <br> <br> <br>
+
+                            <form action="{{ route('posts.destroy', $post) }}" method="post">
+                                @csrf
+                                @method('DELETE')
+                                <button class="btn btn-danger rounded">DELETE</button>
+                            </form>
+                    </div>
 
                     
                  @endforeach
@@ -96,7 +85,7 @@
                 <p>There are no posts</p>
             @endif
 
-
+            
 
 
 
