@@ -111,6 +111,7 @@ carpentry, hair and beauty, health and fitness and retail) to deliver workshops 
         </div>
 
         <br>
+        <div></div>
 
         <div class="plate container-sm container">
             <h3>All our provisions are monitored by CCTV and include the following</h3>
@@ -127,7 +128,7 @@ carpentry, hair and beauty, health and fitness and retail) to deliver workshops 
        </div>
 
 
-
+<div></div>
         
 
      

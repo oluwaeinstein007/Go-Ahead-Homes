@@ -75,45 +75,45 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/svg/young.png" class="d-block w-100 h-75" alt="...">
+      <img src="/svg/young.png" class="d-block w-100 slide-img " alt="...">
       <div class="carousel-caption  d-md-block">
         <h5><b>YOUNG PEOPLE CENTERED CARE</b></h5>
         <p>Our Young people are at the centre of all that we do</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/support.png" class="d-block w-100 h-75" alt="...">
+      <img src="/svg/empower.jpg" class="d-block w-100 slide-img " alt="...">
       <div class="carousel-caption  d-md-block">
         <h5><b>YOUTH SUPPORT & EMPOWERMENT</b></h5>
         <p>Extensive involvement with Health practitioners, social workers, counsellors, etc ensure our young people are supported fully in all aspects of life </p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/rate.jpg" class="d-block w-100 h-75" alt="...">
+      <img src="/svg/rate.jpg" class="d-block w-100 slide-img" alt="...">
       <div class="carousel-caption  d-md-block">
         <h5><b>FIRST RATE ACCOMODATION</b></h5>
         <p>Our Homely accommodations are of the very best quality in the industry.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/transistion.png" class="d-block w-100 h-75" alt="...">
+      <img src="/svg/transition.jpg" class="d-block w-100 slide-img" alt="...">
       <div class="carousel-caption d-md-block">
         <h5><b>POSITIVE TRANSITIONS</b></h5>
-        <p>All our staff have basic social care qualifications such as DBS certificates, core skills, safeguarding certificate etc.  All to ensure adequate delivery of services to our Young  people.</p>
-      </div>
+        <p>Out of 5 young people placed with us, 3 get into their College of choice each year.</p>
+        </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/babies.jpg" class="d-block w-100 h-75" alt="...">
+      <img src="/svg/babies.jpg" class="d-block w-100 slide-img " alt="...">
       <div class="carousel-caption d-md-block">
         <h5><b>HOME FOR YOUNG MOTHERS AND BABIES</b></h5>
         <p>Our all-inclusive-care system accommodates teen mothers and their young </p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/youth.jpg" class="d-block w-100" alt="...">
+      <img src="/svg/trained.png" class="d-block w-100 slide-img " alt="...">
       <div class="carousel-caption  d-md-block">
         <h5><b>WELL TRAINED AND QUALIFIED STAFFS</b></h5>
-        <p>Out of 5 young people placed with us, 3 get into their College of choice each year.</p>
+        <p>All our staff have basic social care qualifications such as DBS certificates, core skills, safeguarding certificate etc., all to ensure adequate delivery of services to our Young  people.</p>
       </div>
     </div>
   </div>
@@ -129,7 +129,90 @@
            
 
 
+        <div class="plate container container-sm mt-3 mb-3 factors">
+        <h2><b>We are an independent care provider who specialise in supported living services and semi independent accommodation for 16+ care leavers across the UK</b></h2>
+        <button class="btn btn-info rounded">Know More</button>
+        </div>
 
+        <br>
+
+        <h2 class="factors">OUR WOW FACTORS</h2>
+
+        <div class="plate container container-sm mt-3 mb-3 factors">
+        <h2><b>Person centered care</b></h2>
+        <h4><b>We provide a tailored service approach which target the specific needs of each young person.</b></h4>
+        </div>
+
+        <br>
+
+        <div class="plate container container-sm mt-3 mb-3 factors">
+        <h2><b>Homely environment</b></h2>
+        <h4><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h4>
+        </div>
+
+        <br>
+
+        <div class="plate container container-sm mt-3 mb-3 factors">
+        <h2><b>Character development </b></h2>
+        <h4><b>Every young person leaves our care better than they came in, with an outstanding level of skill set enabling them to live a good quality life of independence</b></h4>
+        </div>
+
+        <br>
+
+        <div class="plate container container-sm mt-3 mb-3 factors">
+        <h2><b>Work experience and giving back to the community</b></h2>
+        <h4><b>We partner with the best employers in the community where our young people develop work ethics and understand the importance of the community’s needs.</b></h4>
+        </div>
+
+        <br>
+
+        <div class="plate container container-sm mt-3 mb-3 factors">
+
+        <h2><b>Tested and Trusted by Local authorities across London</b></h2>
+        </div>
+
+        <h2 class="factors">Don’t miss out on our service!</h2>
+
+        <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+  
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="plate container container-sm mt-3 mb-3 factors">
+      <h5><b>"Go ahead homes provide competitive rates with exceptional services."</b></h5>
+        <h6>Placement team of Barking and Dagenham</h6>
+        <button class="btn btn-info rounded btn-sm">See More</button>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="plate container container-sm mt-3 mb-3 factors">
+        <h5><b>"I’m so blessed to be living here, I’ve never met a management so intentional about everything that concerns me and my child. I will follow all rules to ensure we stay here, where we are happy"</b></h5>
+        <h6>- A young mother</h6>
+        <button class="btn btn-info rounded btn-sm">See More</button>
+      </div>
+    </div>
+    <div class="carousel-item">
+    <div class="plate container container-sm mt-3 mb-3 factors">
+        <h5><b>"It’s great to see how the staff at Go Ahead Homes engages the young people in weekly activities. It definitely promotes a sense of belonging in every individual."</b></h5>
+        <h6>- Social worker</h6>
+        <button class="btn btn-info rounded btn-sm">See More</button>
+    </div>
+    </div>
+    
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 
 
