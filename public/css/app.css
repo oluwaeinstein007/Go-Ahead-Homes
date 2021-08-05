@@ -10293,6 +10293,16 @@ hr {
     margin-bottom: 50px;
   }
 }
+.word {
+  background-color: #000;
+  opacity: 0.7;
+  z-index: 2;
+}
+
+.word h5 {
+  z-index: 3;
+}
+
 .page {
   text-align: center;
   margin-top: 100px;

@@ -76,42 +76,42 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="/svg/young.png" class="d-block w-100 slide-img " alt="...">
-      <div class="carousel-caption  d-md-block">
+      <div class="carousel-caption  d-md-block word">
         <h5><b>YOUNG PEOPLE CENTERED CARE</b></h5>
         <p>Our Young people are at the centre of all that we do</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/svg/empower.jpg" class="d-block w-100 slide-img " alt="...">
-      <div class="carousel-caption  d-md-block">
+      <div class="carousel-caption d-md-block word">
         <h5><b>YOUTH SUPPORT & EMPOWERMENT</b></h5>
         <p>Extensive involvement with Health practitioners, social workers, counsellors, etc ensure our young people are supported fully in all aspects of life </p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/svg/rate.jpg" class="d-block w-100 slide-img" alt="...">
-      <div class="carousel-caption  d-md-block">
+      <div class="carousel-caption d-md-block word">
         <h5><b>FIRST RATE ACCOMODATION</b></h5>
         <p>Our Homely accommodations are of the very best quality in the industry.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/svg/transition.jpg" class="d-block w-100 slide-img" alt="...">
-      <div class="carousel-caption d-md-block">
+      <div class="carousel-caption d-md-block word">
         <h5><b>POSITIVE TRANSITIONS</b></h5>
         <p>Out of 5 young people placed with us, 3 get into their College of choice each year.</p>
         </div>
     </div>
     <div class="carousel-item">
       <img src="/svg/babies.jpg" class="d-block w-100 slide-img " alt="...">
-      <div class="carousel-caption d-md-block">
+      <div class="carousel-caption d-md-block word">
         <h5><b>HOME FOR YOUNG MOTHERS AND BABIES</b></h5>
         <p>Our all-inclusive-care system accommodates teen mothers and their young </p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="/svg/trained.png" class="d-block w-100 slide-img " alt="...">
-      <div class="carousel-caption  d-md-block">
+      <div class="carousel-caption  d-md-block word">
         <h5><b>WELL TRAINED AND QUALIFIED STAFFS</b></h5>
         <p>All our staff have basic social care qualifications such as DBS certificates, core skills, safeguarding certificate etc., all to ensure adequate delivery of services to our Young  people.</p>
       </div>
@@ -131,7 +131,7 @@
 
         <div class="container container-sm mt-3 mb-3 factors">
         <h2><b>We are an independent care provider who specialise in supported living services and semi independent accommodation for 16+ care leavers across the UK</b></h2>
-        <button class="btn btn-info rounded">Know More</button>
+        <a href="{{ url('/about') }}"><button class="btn btn-info rounded">Know More</button></a>
         </div>
 
         <br>
@@ -190,21 +190,21 @@
       <div class="plate container container-sm mt-3 mb-3 factors">
       <h5><b>"Go ahead homes provide competitive rates with exceptional services."</b></h5>
         <h6>Placement team of Barking and Dagenham</h6>
-        <button class="btn btn-info rounded btn-sm">See More</button>
+        <a href="{{ url('/testimonials') }}"><button class="btn btn-info rounded btn-sm">See More</button></a>
       </div>
     </div>
     <div class="carousel-item">
       <div class="plate container container-sm mt-3 mb-3 factors">
         <h5><b>"I’m so blessed to be living here, I’ve never met a management so intentional about everything that concerns me and my child. I will follow all rules to ensure we stay here, where we are happy"</b></h5>
         <h6>- A young mother</h6>
-        <button class="btn btn-info rounded btn-sm">See More</button>
+        <a href="{{ url('/testimonials') }}"><button class="btn btn-info rounded btn-sm">See More</button></a>
       </div>
     </div>
     <div class="carousel-item">
     <div class="plate container container-sm mt-3 mb-3 factors">
         <h5><b>"It’s great to see how the staff at Go Ahead Homes engages the young people in weekly activities. It definitely promotes a sense of belonging in every individual."</b></h5>
         <h6>- Social worker</h6>
-        <button class="btn btn-info rounded btn-sm">See More</button>
+        <a href="{{ url('/testimonials') }}"><button class="btn btn-info rounded btn-sm">See More</button></a>
     </div>
     </div>
     
@@ -225,7 +225,7 @@
       
 
 
-<footer>
+      <footer>
         <div class="row">
           <div class="col">
             <h3>Social Media <div class="underline"><span></span></div></h3>

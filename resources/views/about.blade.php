@@ -60,8 +60,9 @@
         </nav>
 
 
-        <div class="block-1">
-            <div class="container-sm container mt-4">
+        
+           <!--
+                <div class="first container-sm container mt-4">
                 <h3>About Firm</h3>
                 <p>Go Ahead Homes is a private organisation dedicated to supporting young care leavers aged 16+ to make a positive transition from residential or foster care into independent living. 
                 <br>
@@ -69,13 +70,72 @@
                 <br>
                 A sense of belonging and stability is imperative for our young people who are exploring their identities following their different experience of being in care, so we go the extra mile to create a nurturing environment that aids in achieving personal, educational, financial and mental betterment.</p>
             </div>
-        </div>
+        
 
-        <div class="block-1">
-        <div class="container-sm container homes">
+       
+        <div class="first container-sm container homes">
             <img src="{{asset('images/Project-Prints.png')}}" class="img-fluid" alt="Responsive image">
             </div>
-        </div>
+-->             
+                <br>
+                <div class="factors">
+                <h2>“Empowering the youth of today to excel in the world of tomorrow”</h2>
+                   <br> - EST 2018
+                </div>
+                <br>
+
+                <div class="plate container container-sm">
+                Go Ahead Homes is a private organisation dedicated to supporting young
+                people with low, medium and high level support needs, to make a positive
+                transition from residential or foster care into independent living, with continued
+                outreach support. <br>
+                We offer 24/7 supported 16+ accommodations and 18+ semi independent
+                accommodations to our service users. These comprise of mixed gender, single
+                gender, and mother and baby homes. <br>
+                A sense of belonging and stability is imperative for our young people who are
+                exploring their identities following their different experience of being in care.
+                Hence, our support services are targeted towards achieving personal,
+                educational, financial and mental betterment. <br>
+                </div>
+                <br>
+
+                <div class="plate container container-sm">
+                OUR VISION 
+                <br>
+                We envision a society in which all young people from disadvantaged backgrounds are
+                empowered to overcome their challenges and strive towards a bright and successful
+                future
+                </div>
+                <br>
+
+                <div class="plate container container-sm">
+                OUR TEAM
+                <br>
+                Our team consists of qualified social workers and experienced support staff,
+                who have all worked directly with young people within a range of residential
+                and outreach settings.
+                </div>
+                <br>
+
+                <div class="plate container container-sm">
+                Our well trained staff are on hand 24/7 to provide our residents with the support
+                and guidance they require. All our staff are experienced in supporting our
+                young people to make positive development within the following focus areas: <br>
+                <br>
+                Challenging & offending behaviour <br>
+                Sexual health and identity <br>
+                Emotional health and well being <br>
+                Education, training & Employment <br>
+                Child sexual exploitation <br>
+                Domestic Abuse <br>
+                Alcohol and substance misuse <br>
+                Relationship building and family contact <br>
+                Asylum and Immigration matters <br>
+                Low to medium mental health needs <br>
+                Low Special educational needs. <br>
+                </div>
+                <br>
+    
 
      
 
