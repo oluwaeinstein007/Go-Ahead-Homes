@@ -18,9 +18,23 @@
                 height: 100px;
                 width: 200px;
             }
+            .sticker {
+                height: 250px;
+                width: 300px;
+            }
+            .row-2 {
+                width: 90%;
+                margin: auto;
+                align-items: center;
+                justify-content: center;
+            }
             .first-img {
                 height: 200px;
                 width: 200px;
+            }
+            .about-img {
+                height: 150px;
+                width: 300px;
             }
             footer {
                 bottom: unset;
@@ -51,8 +65,12 @@
         }
         
         .slide-img {
-            height: 500px;
+            height: 300px;
             width: 700px;
+        }
+        
+        .about-img {
+            height: 600px;
         }
         
         .factors {
@@ -108,6 +126,34 @@
             position: absolute;
             left: 10px;
             animation: moving 2s linear infinite;
+        }
+        
+        @media (min-width: 700px) {
+            .block-1 {
+                float: left;
+                width: 50%;
+                box-sizing: border-box;
+                padding-left: 40px;
+                margin-bottom: 50px;
+                margin: 20px;
+            }
+            .sticker {
+                height: 420px;
+            }
+            .row-2 {
+                width: 80%;
+                margin: auto;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                box-sizing: border-box;
+            }
+            .col-2 {
+                flex-basis: 50%;
+                padding: 10px;
+                margin: 10px 10px 10px 10px;
+                border: 1px solid #03a9f4;
+            }
         }
         
         @keyframes moving {
@@ -268,16 +314,6 @@
         }
         */
         
-        @media (min-width: 700px) {
-            .block-1 {
-                float: left;
-                width: 50%;
-                box-sizing: border-box;
-                padding-left: 40px;
-                margin-bottom: 50px;
-            }
-        }
-        
         .word {
             background-color: #000;
             opacity: 0.7;
@@ -286,6 +322,11 @@
         
         .word h5 {
             z-index: 3;
+        }
+        
+        .carousel-capt {
+            color: #fff;
+            z-index: 5;
         }
         
         .page {

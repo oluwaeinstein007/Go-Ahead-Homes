@@ -202,13 +202,39 @@ we are making as a company to reduce the risk of the virus spreading
           </div>
           <div class="col">
             <h3>Partners <div class="underline"><span></span></h3>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere molestiae soluta, impedit ut, commodi non eveniet, eligendi placeat quam voluptatibus tempore beatae! Nesciunt saepe est laborum facilis, in atque temporibus.</p>
+                              <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="/svg/enfield.jpg" class="d-block w-100 slide-img" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                       <img src="/svg/sutton.jpg" class="d-block w-100 slide-img" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="/svg/barking.jpg" class="d-block w-100 slide-img" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="/svg/tower.jpg" class="d-block w-100 slide-img" alt="...">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="/svg/forrest.png" class="d-block w-100 slide-img" alt="...">
+                      </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
           </div>
         </div>
         <hr>
         <p class="copyright">Copyright © 2021 Official Go Ahead Homes</p>
         <p class="copyright">Powered by L'Phi-Hub</p>
-      </footer> 
+      </footer>  
         
     </body>
 </html>
