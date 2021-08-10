@@ -138,7 +138,7 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img " alt="...">
+                                <img src="/svg/house.png" class="factors d-block w-100 slide-img " alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
@@ -153,7 +153,7 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img " alt="...">
+                                <img src="/svg/house.png" class="d-block w-100 slide-img factors" alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
@@ -168,7 +168,7 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img " alt="...">
+                                <img src="/svg/house.png" class="d-block w-100 slide-img factors" alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
@@ -183,7 +183,7 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img" alt="...">
+                                <img src="/svg/house.png" class="d-block w-100 slide-img factors" alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
@@ -224,8 +224,12 @@
 
                 <div class="row-2">
                     <div class="block-1 first mb-4 container-md">
-                        <h3>Keywork sessions</h3> <br>
-                        <img src="/svg/keywork.svg" alt=""  class="sticker">
+                            <div class="factors">
+                            <h3>Keywork sessions</h3> <br>
+                            <img src="/svg/keywork.svg" alt=""  class="sticker factors">
+                             </div>
+                       
+                       
                         <p>Our young people are required to participate in regular one on one keywork
                         sessions which are designed to enable meet their health and emotional needs,
                         promote and maintain positive relationships, develop their identity and selfworth, develop interpersonal skills and explore their future career and life
@@ -238,7 +242,7 @@
                     </div>
                     <div class="block-1 first mb-4 container-md">
                         <h3>Mental health and well being</h3> <br>
-                        <img src="/svg/health.svg" alt=""  class="sticker">
+                        <img src="/svg/health.svg" alt=""  class="sticker factors">
                         <p>All young people will be registered with the local GP, Dentist and Optician and
                         will be supported by staff to arrange and attend appointments. Keywork
                         sessions will provide young people with information on healthy living, exercise,
