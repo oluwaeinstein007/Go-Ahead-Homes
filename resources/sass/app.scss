@@ -166,6 +166,106 @@
             }
         }
         
+        .fall {
+            animation: fall 3s linear;
+        }
+        
+        @keyframes fall {
+            0% {
+                top: -150px;
+            }
+            100% {
+                top: 0;
+            }
+        }
+        
+        .rise {
+            animation: rise 3s linear;
+        }
+        
+        @keyframes rise {
+            0% {
+                bottom: -150px;
+            }
+            100% {
+                bottom: 0;
+            }
+        }
+        
+        .move-left {
+            animation: move-left 3s linear;
+        }
+        
+        @keyframes move-left {
+            0% {
+                left: -1500px;
+            }
+            100% {
+                left: 0;
+            }
+        }
+        
+        .move-right {
+            animation: move-right 3s linear;
+        }
+        
+        @keyframes move-right {
+            0% {
+                right: -1500px;
+            }
+            100% {
+                right: 0;
+            }
+        }
+        
+        .appear {
+            animation: appear 3s linear;
+        }
+        
+        @keyframes appear {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+        
+        .twist {
+            animation: twist 3s linear;
+        }
+        
+        @keyframes twist {
+            0% {
+                transform: rotateY(180deg);
+            }
+        }
+        
+        .roll {
+            animation: roll 3s linear;
+        }
+        
+        @keyframes roll {
+            0% {
+                transform: rotateX(180deg);
+            }
+        }
+        
+        .dangle {
+            animation: dangle 3s linear;
+        }
+        
+        @keyframes dangle {
+            0% {
+                transform: rotateX(90deg);
+                transform: rotateY(90deg);
+            }
+            50% {
+                transform: rotateX(-90deg);
+                transform: rotateY(-90deg);
+            }
+        }
+        
         .col h2 {
             width: 300px;
             margin-bottom: 30px;

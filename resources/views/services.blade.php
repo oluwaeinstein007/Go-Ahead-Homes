@@ -210,9 +210,9 @@
                 <!--end check-->
         <br>
         <br>
-        <h2 class="factors">SUPPORT PLANS</h2>
+        <h2 class="factors fall">SUPPORT PLANS</h2>
         <br>
-                <div class="plate container container-sm">
+                <div class="plate container container-sm  appear">
                 <h3>24/7 staff support</h3> <br>
                     <p>Our service provides 24/7 support, including onsite staff (24hrs
                     accommodation), and out off hours emergency call facility. Support ,advice and
@@ -222,7 +222,7 @@
                 </div>        
                 <br>
 
-                <div class="row-2">
+                <div class="row-2 rise">
                     <div class="block-1 first mb-4 container-md">
                             <div class="factors">
                             <h3>Keywork sessions</h3> <br>

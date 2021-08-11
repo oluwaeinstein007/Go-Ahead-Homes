@@ -85,7 +85,7 @@
                 <br>
 
                 <div class="row-2">
-                    <div class="block-1 first mb-4 container-md">
+                    <div class="block-1 first mb-4 container-md move-right">
                             Go Ahead Homes is a private organisation dedicated to supporting young
                         people with low, medium and high level support needs, to make a positive
                         transition from residential or foster care into independent living, with continued
@@ -99,7 +99,7 @@
                         educational, financial and mental betterment. <br>
                         
                     </div>
-                    <div class="block-1 first mb-4 container-md">
+                    <div class="block-1 first mb-4 container-md move-left">
                         <img src="/svg/about4.png" alt=""  class="d-block w-100">
                         <br> 
                     </div>
@@ -165,7 +165,7 @@
                 <!--check-->
                 
                 <div class="row-2">
-                <div class="block-1 first mb-4 container-md">
+                <div class="block-1 first mb-4 container-md move-left">
                  <h3 class="factors">OUR VISION</h3> 
                   <img src="/svg/vision.svg" alt="" class="sticker">
                 <br>
@@ -174,7 +174,7 @@
                 future
                 </div>
                  
-                  <div class="block-1 first mb-4 container-md">
+                  <div class="block-1 first mb-4 container-md move-right">
                   <h3 class="factors">OUR TEAM</h3>
                   <img src="/svg/teams.svg" alt=""  class="sticker">
                 <br>
@@ -189,7 +189,7 @@
 
               
                 
-                <div class="container-md container">
+                <div class="container-md container appear">
                 <div class="factors">
                 <h2>Our well trained staff are on hand 24/7 to provide our residents with the support
                 and guidance they require. All our staff are experienced in supporting our
@@ -199,7 +199,7 @@
                 
 
                 <div class="row-2">
-                  <div class="block-1 mt-4 first mb-4 container-md">
+                  <div class="block-1 mt-4 first mb-4 container-md roll">
                   
                       Challenging & offending behaviour <br> <br>
                       Sexual   health and identity <br> <br>
@@ -213,7 +213,7 @@
                       Low to medium mental health needs <br> <br>
                       Low Special educational needs. <br> <br>
                   </div>
-                  <div class="block-1  first mb-4 container-md">
+                  <div class="block-1  first mb-4 container-md twist">
                      <img src="/svg/homes.jpg" class="d-block w-100" alt="...">
                      <br> <br> <br>
                   </div>

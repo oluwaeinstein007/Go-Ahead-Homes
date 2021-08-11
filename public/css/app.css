@@ -10179,6 +10179,174 @@ footer {
     left: 100%;
   }
 }
+.fall {
+  -webkit-animation: fall 3s linear;
+          animation: fall 3s linear;
+}
+
+@-webkit-keyframes fall {
+  0% {
+    top: -150px;
+  }
+  100% {
+    top: 0;
+  }
+}
+
+@keyframes fall {
+  0% {
+    top: -150px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.rise {
+  -webkit-animation: rise 3s linear;
+          animation: rise 3s linear;
+}
+
+@-webkit-keyframes rise {
+  0% {
+    bottom: -150px;
+  }
+  100% {
+    bottom: 0;
+  }
+}
+
+@keyframes rise {
+  0% {
+    bottom: -150px;
+  }
+  100% {
+    bottom: 0;
+  }
+}
+.move-left {
+  -webkit-animation: move-left 3s linear;
+          animation: move-left 3s linear;
+}
+
+@-webkit-keyframes move-left {
+  0% {
+    left: -1500px;
+  }
+  100% {
+    left: 0;
+  }
+}
+
+@keyframes move-left {
+  0% {
+    left: -1500px;
+  }
+  100% {
+    left: 0;
+  }
+}
+.move-right {
+  -webkit-animation: move-right 3s linear;
+          animation: move-right 3s linear;
+}
+
+@-webkit-keyframes move-right {
+  0% {
+    right: -1500px;
+  }
+  100% {
+    right: 0;
+  }
+}
+
+@keyframes move-right {
+  0% {
+    right: -1500px;
+  }
+  100% {
+    right: 0;
+  }
+}
+.appear {
+  -webkit-animation: appear 3s linear;
+          animation: appear 3s linear;
+}
+
+@-webkit-keyframes appear {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.twist {
+  -webkit-animation: twist 3s linear;
+          animation: twist 3s linear;
+}
+
+@-webkit-keyframes twist {
+  0% {
+    transform: rotateY(180deg);
+  }
+}
+
+@keyframes twist {
+  0% {
+    transform: rotateY(180deg);
+  }
+}
+.roll {
+  -webkit-animation: roll 3s linear;
+          animation: roll 3s linear;
+}
+
+@-webkit-keyframes roll {
+  0% {
+    transform: rotateX(180deg);
+  }
+}
+
+@keyframes roll {
+  0% {
+    transform: rotateX(180deg);
+  }
+}
+.dangle {
+  -webkit-animation: dangle 3s linear;
+          animation: dangle 3s linear;
+}
+
+@-webkit-keyframes dangle {
+  0% {
+    transform: rotateX(90deg);
+    transform: rotateY(90deg);
+  }
+  50% {
+    transform: rotateX(-90deg);
+    transform: rotateY(-90deg);
+  }
+}
+
+@keyframes dangle {
+  0% {
+    transform: rotateX(90deg);
+    transform: rotateY(90deg);
+  }
+  50% {
+    transform: rotateX(-90deg);
+    transform: rotateY(-90deg);
+  }
+}
 .col h2 {
   width: 300px;
   margin-bottom: 30px;

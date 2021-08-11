@@ -150,15 +150,15 @@
 
 
         <div class="container container-sm mt-3 mb-3 factors">
-        <h2><b>We are an independent care provider who specialise in supported living services and semi independent accommodation for 16+ care leavers across the UK</b></h2>
+        <h2 class="appear"><b>We are an independent care provider who specialise in supported living services and semi independent accommodation for 16+ care leavers across the UK</b></h2>
         <a href="{{ url('/about') }}"><button class="btn btn-info rounded">Know More</button></a>
         </div>
 
         <br>
 
-        <h2 class="factors">OUR WOW FACTORS</h2>
+        <h2 class="factors twist">OUR WOW FACTORS</h2>
 
-        <div class="first container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors move-left">
         <h2><b>Person centered care</b></h2>
         <img src="/svg/personcent.svg" alt="" class="first-img">
         <h6><b>We provide a tailored service approach which target the specific needs of each young person.</b></h6>
@@ -166,7 +166,7 @@
 
         <br>
 
-        <div class="first container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors move-right">
         <h2><b>Homely environment</b></h2>
         <img src="/svg/homely.svg" alt="" class="first-img">
         <h6><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h6>
@@ -174,7 +174,7 @@
 
         <br>
 
-        <div class="first container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors move-left">
         <h2><b>Character development </b></h2>
         <img src="/svg/develop.svg" alt="" class="first-img">
         <h6><b>Every young person leaves our care better than they came in, with an outstanding level of skill set enabling them to live a good quality life of independence</b></h6>
@@ -182,7 +182,7 @@
 
         <br>
 
-        <div class="first container container-sm mt-3 mb-3 factors">
+        <div class="first container container-sm mt-3 mb-3 factors move-right">
         <h2><b>Work experience and giving back to the community</b></h2>
         <img src="/svg/work.svg" alt="" class="first-img">
         <br>
@@ -192,11 +192,11 @@
         <br>
 
         <div class=" bill  mt-3 mb-3 factors">
-        <h2><b>Tested and Trusted by Local authorities across London</b></h2>
+        <h2 class="roll"><b>Tested and Trusted by Local authorities across London</b></h2>
         </div>
 
        
-        <h2 class="factors">Don’t miss out on our service!</h2>
+        <h2 class="factors appear">Don’t miss out on our service!</h2>
         
 
         <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
