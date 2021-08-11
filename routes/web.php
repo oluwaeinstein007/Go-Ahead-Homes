@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\NewsController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -52,7 +53,5 @@ Route::get('/testimonials', function(){
     
     return view('testimonials');
 });
-Route::get('/news', function(){
- 
-    return view('news');
-});
+Route::get('/news/{id}', [NewsController::class, 'single'])->name('news.single');
+Route::get('/news', [NewsController::class, 'index'])->name('news');

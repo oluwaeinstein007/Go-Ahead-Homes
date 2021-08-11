@@ -62,14 +62,15 @@
 
         <h2 class="factors mt-4">Blogs & Activities</h2>
 
-        <div class="first container container-sm mt-3 mb-3 factors">
-                    <h2><b>Title</b></h2>
-                    <h6>by <a href="#">Lanre</a> <span>time</span></h6>
-                    <img src="/svg/personcent.svg" alt="" class="first-img">
-                    <p><b> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim nobis error rem, numquam commodi sequi quasi amet doloribus ab placeat ullam dignissimos accusamus sint quae dolor atque fuga minima cupiditate dolorum! Voluptatibus adipisci, quidem, culpa ex molestiae aspernatur maxime unde, a nesciunt suscipit est voluptatem eligendi ipsam repellendus aperiam id! </b></p>
+        @foreach($posts as $post)
+            <div class="first container container-sm mt-3 mb-3 factors">
+                <h2><b>{{$post->title}}</b></h2>
+                <h6>by <a href="#">{{$post->user->name}}</a> <span>time</span></h6>
+                <img src="{{asset($post->picture)}}" alt="" class="first-img">
+                <p><b>{{ \Illuminate\Support\Str::limit($post->descrip, 10, $end='...')}}</b><a class="nav-link" href="{{url('/news/'.$post->id)}}">Read More</a></p>
                 
-                    </div>
-
+            </div>
+        @endforeach
      
 
     
