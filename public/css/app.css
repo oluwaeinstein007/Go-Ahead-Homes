@@ -10182,6 +10182,7 @@ footer {
 .fall {
   -webkit-animation: fall 3s linear;
           animation: fall 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes fall {
@@ -10204,6 +10205,7 @@ footer {
 .rise {
   -webkit-animation: rise 3s linear;
           animation: rise 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes rise {
@@ -10226,6 +10228,7 @@ footer {
 .move-left {
   -webkit-animation: move-left 3s linear;
           animation: move-left 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes move-left {
@@ -10248,6 +10251,7 @@ footer {
 .move-right {
   -webkit-animation: move-right 3s linear;
           animation: move-right 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes move-right {
@@ -10270,6 +10274,7 @@ footer {
 .appear {
   -webkit-animation: appear 3s linear;
           animation: appear 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes appear {
@@ -10292,6 +10297,7 @@ footer {
 .twist {
   -webkit-animation: twist 3s linear;
           animation: twist 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes twist {
@@ -10308,6 +10314,7 @@ footer {
 .roll {
   -webkit-animation: roll 3s linear;
           animation: roll 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes roll {
@@ -10324,6 +10331,7 @@ footer {
 .dangle {
   -webkit-animation: dangle 3s linear;
           animation: dangle 3s linear;
+  overflow: hidden;
 }
 
 @-webkit-keyframes dangle {
