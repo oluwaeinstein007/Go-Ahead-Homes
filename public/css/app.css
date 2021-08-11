@@ -10545,6 +10545,13 @@ h1 {
   line-height: 1em;
 }
 
+.welc {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
 .front {
   z-index: 2000;
 }
