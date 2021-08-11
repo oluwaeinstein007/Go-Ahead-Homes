@@ -452,16 +452,37 @@
         h1 {
             color: #fff;
             text-transform: uppercase;
-            font-size: 4em;
+            font-size: 6em;
             text-align: center;
             line-height: 1em;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+        
+        .type {
+            animation: type 4s steps(14) 1s 1 normal both, blinkCursor 500ms steps(14) infinite normal;
+        }
+        
+        @keyframes type {
+            from {
+                width: 0;
+            }
+            to {
+                width: 6em;
+            }
+        }
+        
+        @keyframes blinkCursor {
+            from {
+                border-right-color: black;
+            }
         }
         
         .welc {
             justify-content: center;
             align-items: center;
             text-align: center;
-            margin-top: 100px;
+            margin-top: 250px;
         }
         
         .front {
