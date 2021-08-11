@@ -126,7 +126,27 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-          
+           <!--check-->
+           <!--
+           <div class="row-2">
+                <div class="block-1 first mb-4 container-md">
+                 <h3 class="factors">Person centered care</h3> 
+                 
+                  <img src="/svg/personcent.svg" alt="" class="sticker">
+                <br>
+                <h6><b>We provide a tailored service approach which target the specific needs of each young person.</b></h6>
+                </div>
+                 
+                  <div class="block-1 first mb-4 container-md">
+                  <h3 class="factors">Homely environment</h3>
+                  <img src="/svg/homely.svg" alt=""  class="sticker">
+                <br>
+                <h6><b>We provide a tailored service approach which target the specific needs of each young person.</b></h6>
+                </div>
+                  
+                </div>
+              -->
+           <!--end check-->
 
 
         <div class="container container-sm mt-3 mb-3 factors">
@@ -171,12 +191,13 @@
 
         <br>
 
-        <div class="container container-sm mt-3 mb-3 factors">
-
+        <div class=" bill  mt-3 mb-3 factors">
         <h2><b>Tested and Trusted by Local authorities across London</b></h2>
         </div>
 
+       
         <h2 class="factors">Don’t miss out on our service!</h2>
+        
 
         <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">

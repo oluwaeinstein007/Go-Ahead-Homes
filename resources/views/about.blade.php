@@ -78,27 +78,37 @@
             </div>
 -->             
                 <br>
-                <div class="factors">
+                <div class="factors container-md container">
                 <h2>“Empowering the youth of today to excel in the world of tomorrow”</h2>
                    <br> - EST 2018
                 </div>
                 <br>
 
-                <div class="plate container container-sm">
-                Go Ahead Homes is a private organisation dedicated to supporting young
-                people with low, medium and high level support needs, to make a positive
-                transition from residential or foster care into independent living, with continued
-                outreach support. <br>
-                We offer 24/7 supported 16+ accommodations and 18+ semi independent
-                accommodations to our service users. These comprise of mixed gender, single
-                gender, and mother and baby homes. <br>
-                A sense of belonging and stability is imperative for our young people who are
-                exploring their identities following their different experience of being in care.
-                Hence, our support services are targeted towards achieving personal,
-                educational, financial and mental betterment. <br>
+                <div class="row-2">
+                    <div class="block-1 first mb-4 container-md">
+                            Go Ahead Homes is a private organisation dedicated to supporting young
+                        people with low, medium and high level support needs, to make a positive
+                        transition from residential or foster care into independent living, with continued
+                        outreach support. <br>
+                        We offer 24/7 supported 16+ accommodations and 18+ semi independent
+                        accommodations to our service users. These comprise of mixed gender, single
+                        gender, and mother and baby homes. <br>
+                        A sense of belonging and stability is imperative for our young people who are
+                        exploring their identities following their different experience of being in care.
+                        Hence, our support services are targeted towards achieving personal,
+                        educational, financial and mental betterment. <br>
+                        
+                    </div>
+                    <div class="block-1 first mb-4 container-md">
+                        <img src="/svg/about4.png" alt=""  class="d-block w-100">
+                        <br> 
+                    </div>
                 </div>
-                <br>
 
+
+               
+                <br>
+                <!--
                 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -147,6 +157,7 @@
                     <span class="sr-only">Next</span>
                 </a>
                 </div>
+-->
                 <br>
 
                 
@@ -178,7 +189,7 @@
 
               
                 
-                <div class="first container-md container">
+                <div class="container-md container">
                 <div class="factors">
                 <h2>Our well trained staff are on hand 24/7 to provide our residents with the support
                 and guidance they require. All our staff are experienced in supporting our
@@ -190,20 +201,21 @@
                 <div class="row-2">
                   <div class="block-1 mt-4 first mb-4 container-md">
                   
-                      Challenging & offending behaviour <br>
-                      Sexual   health and identity <br>
-                      Emotional health and well being <br>
-                      Education, training & Employment <br>
-                      Child sexual exploitation <br>
-                      Domestic Abuse <br>
-                      Alcohol and substance misuse <br>
-                      Relationship building and family contact <br>
-                      Asylum and Immigration matters <br>
-                      Low to medium mental health needs <br>
-                      Low Special educational needs. <br>
+                      Challenging & offending behaviour <br> <br>
+                      Sexual   health and identity <br> <br>
+                      Emotional health and well being <br> <br>
+                      Education, training & Employment <br> <br>
+                      Child sexual exploitation <br> <br>
+                      Domestic Abuse <br> <br>
+                      Alcohol and substance misuse <br> <br>
+                      Relationship building and family contact <br> <br>
+                      Asylum and Immigration matters <br> <br>
+                      Low to medium mental health needs <br> <br>
+                      Low Special educational needs. <br> <br>
                   </div>
                   <div class="block-1  first mb-4 container-md">
-                     <img src="/svg/rate.png" class="d-block w-100" alt="...">
+                     <img src="/svg/homes.jpg" class="d-block w-100" alt="...">
+                     <br> <br> <br>
                   </div>
                 </div>
                 <br>

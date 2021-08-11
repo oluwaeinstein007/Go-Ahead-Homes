@@ -10335,6 +10335,18 @@ hr {
     width: 100%;
 }
 */
+.bill {
+  background: linear-gradient(to right, #00093c, #2d0b00);
+  opacity: 0.7;
+  z-index: 2;
+  padding: 30px;
+}
+
+.bill h2 {
+  z-index: 3;
+  color: #fff;
+}
+
 .word {
   background-color: #000;
   opacity: 0.7;

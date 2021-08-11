@@ -60,7 +60,7 @@
         </nav>
 
         <br>
-                <div class="factors">
+                <div class="factors container-md container">
                 <h2>“We’re enthusiastic about what we do, this motivates us to give you services you won’t find elsewhere”</h2>
                 </div>
                 <br>
