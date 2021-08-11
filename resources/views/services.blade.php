@@ -226,7 +226,7 @@
                     <div class="block-1 first mb-4 container-md">
                             <div class="factors">
                             <h3>Keywork sessions</h3> <br>
-                            <img src="/svg/keywork.svg" alt=""  class="sticker factors">
+                            <img src="/svg/keywork.svg" alt=""  class="sticker factors d-block">
                              </div>
                        
                        
