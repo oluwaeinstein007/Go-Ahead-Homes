@@ -62,7 +62,7 @@
 
         <br>
                 <div class="factors container-md container">
-                <h2>“We’re enthusiastic about what we do, this motivates us to give you services you won’t find elsewhere”</h2>
+                <h2>We’re enthusiastic about what we do, this motivates us to give you services you won’t find elsewhere</h2>
                 </div>
                 <br>
         
@@ -73,11 +73,11 @@
             <img src="/svg/housing.svg" alt=""  class="first-img">
             </div>
             <p>We strive to create a safe, friendly and homely environment to enable our
-            young people to feel safe and valued. Our young people have their individual
+            young people feel safe and valued. Our young people have their individual
             rooms and are granted the privacy and independent living facilities they require.
-            Following a 6 month period of positive progress young people are encouraged
-            and supported to make their personal space reflect their inner selfs. E.g a
-            personalised feature wall of their goals, beliefs etc. in their rooms <br>
+            Following a 6 month period of positive progress, our young people are encouraged
+            and supported to make their personal space reflect their inner selfs. For example a
+            personalised feature wall of their goals, beliefs and aspirations can be designed in their rooms <br>
             All our homes consist of high standard living facilities, good quality furnitures
             with homely soft furnishings, which Include: <br>
             ⁃ Well furnished bedrooms <br>
