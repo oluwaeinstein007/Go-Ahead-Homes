@@ -85,7 +85,7 @@
       <img src="/svg/empower.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-md-block word">
         <h5><b>YOUTH SUPPORT & EMPOWERMENT</b></h5>
-        <p>Extensive involvement with Health practitioners, social workers, counsellors, etc ensure our young people are supported fully in all aspects of life </p>
+        <p>Extensive involvement with Health practitioners, Social workers, Counsellors, etc, ensure our young people are supported fully in all aspects of life </p>
       </div>
     </div>
     <div class="carousel-item">
@@ -112,8 +112,8 @@
     <div class="carousel-item">
       <img src="/svg/trained.png" class="d-block w-100" alt="...">
       <div class="carousel-caption  d-md-block word">
-        <h5><b>WELL TRAINED AND QUALIFIED STAFFS</b></h5>
-        <p>All our staff have basic social care qualifications such as DBS certificates, core skills, safeguarding certificate etc., all to ensure adequate delivery of services to our Young  people.</p>
+        <h5><b>WELL TRAINED AND QUALIFIED STAFF</b></h5>
+        <p>All our staff have basic social care qualifications, such as DBS certificates, core skills, safeguarding certificate etc. All to ensure adequate delivery of services to our Young  people.</p>
       </div>
     </div>
   </div>
@@ -150,7 +150,7 @@
 
 
         <div class="container container-sm mt-3 mb-3 factors">
-        <h2 class="appear"><b>We are an independent care provider who specialise in supported living services and semi independent accommodation for 16+ care leavers across the UK</b></h2>
+        <h2 class="appear"><b>We are an independent care provider who specialise in supported living services and semi-independent accommodation for 16+ care leavers across the UK.</b></h2>
         <a href="{{ url('/about') }}"><button class="btn btn-info rounded">Know More</button></a>
         </div>
 
@@ -161,7 +161,7 @@
         <div class="first container container-sm mt-3 mb-3 factors move-left">
         <h2><b>Person centered care</b></h2>
         <img src="/svg/personcent.svg" alt="" class="first-img">
-        <h6><b>We provide a tailored service approach which target the specific needs of each young person.</b></h6>
+        <h6><b>We provide a tailored service approach, which targets the specific needs of each young person.</b></h6>
         </div>
 
         <br>
@@ -223,7 +223,7 @@
     </div>
     <div class="carousel-item">
     <div class="plate container container-sm mt-3 mb-3 factors">
-        <h5><b>"It’s great to see how the staff at Go Ahead Homes engages the young people in weekly activities. It definitely promotes a sense of belonging in every individual."</b></h5>
+        <h5><b>"It’s great to see how the Go Ahead Homes staff engage the young people in weekly activities. It definitely promotes a sense of belonging in every individual."</b></h5>
         <h6>- Social worker</h6>
         <a href="{{ url('/testimonials') }}"><button class="btn btn-info rounded btn-sm">See More</button></a>
     </div>
