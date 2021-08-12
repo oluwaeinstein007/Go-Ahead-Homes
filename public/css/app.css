@@ -10021,35 +10021,40 @@ h3 {
     width: 220px;
   }
 
-  .about-img {
-    height: 150px;
+  .blog-img {
+    height: 250px;
     width: 220px;
   }
-
-  .row-2 {
-    width: 90%;
-    margin: auto;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .first-img {
-    height: 200px;
-    width: 200px;
-  }
-
-  footer {
-    bottom: unset;
-  }
-
-  .col {
-    flex-basis: 100%;
-  }
-
-  .col:nth-child(2) {
-    flex-basis: 100%;
-  }
 }
+.about-img {
+  height: 150px;
+  width: 220px;
+}
+
+.row-2 {
+  width: 90%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.first-img {
+  height: 200px;
+  width: 200px;
+}
+
+footer {
+  bottom: unset;
+}
+
+.col {
+  flex-basis: 100%;
+}
+
+.col:nth-child(2) {
+  flex-basis: 100%;
+}
+
 .location {
   width: 80%;
   margin: auto;
@@ -10074,6 +10079,11 @@ h3 {
 
 .about-img {
   height: 600px;
+}
+
+.blog-img {
+  height: 250px;
+  width: 220px;
 }
 
 .factors {

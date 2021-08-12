@@ -44,6 +44,7 @@
                                 <option value="news">News Update</option>
                                 <option value="success">Success Stories</option>
                                 <option value="activities">Activity Blog</option>
+                                <option value="testify">Testimonials</option>
                             </select>
                                 @error('section')
                                     <div>{{$message}}</div>
@@ -86,7 +87,6 @@
             @endif
 
             
-
 
 
         </div>

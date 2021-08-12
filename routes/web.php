@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\NewsController;
+use App\Http\Controllers\TestimonialsController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -49,9 +50,9 @@ Route::get('/contact', function(){
 Route::get('/services', function(){
     return view('services');
 });
-Route::get('/testimonials', function(){
-    
-    return view('testimonials');
-});
+
 Route::get('/news/{id}', [NewsController::class, 'single'])->name('news.single');
 Route::get('/news', [NewsController::class, 'index'])->name('news');
+
+Route::get('/testimonials/{id}', [TestimonialsController::class, 'single'])->name('testimonials.single');
+Route::get('/testimonials', [TestimonialsController::class, 'index'])->name('testimonials');

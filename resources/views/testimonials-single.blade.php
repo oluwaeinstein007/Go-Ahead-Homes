@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -30,7 +29,7 @@
 
       <nav class="navbar navbar-expand-sm navbar-dark bg-dark" text-color="red">
                 <div class="container">
-                <a href="{{ url('/') }}" class="navbar-brand"> <img src="/svg/home-logo.png" alt="" class="logo mr-2"> Go Ahead Homes </a>
+                    <a href="{{ url('/') }}" class="navbar-brand">Go Ahead Homes</a>
                     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -60,27 +59,15 @@
         </nav>
 
 
-        <h2 class="factors mt-4">Blogs & Activities</h2>
+        <h2 class="factors mt-4">Testimonials & Success Stories</h2>
 
-        @if($posts->count())
-
-        @foreach($posts as $post)
             <div class="first container container-sm mt-3 mb-3 factors">
                 <h2><b>{{$post->title}}</b></h2>
-                <h6>by <a href="#">{{$post->user->name}}</a> <span>{{$post->created_at->diffForHumans()}}</span></h6>
+                <h6>by <a href="#">{{$post->user->name}}</a> <span>time</span></h6>
                 <img src="{{asset($post->picture)}}" alt="" class="first-img">
-                <p><b>{{ \Illuminate\Support\Str::limit($post->descrip, 10, $end='...')}}</b><a class="nav-link" href="{{url('/news/'.$post->id)}}">Read More</a></p>
+                <p>{{$post->descrip}}</p>
                 
             </div>
-        @endforeach
-
-
-
-            @else
-            <p>There are no posts</p>
-            @endif
-
-
      
 
     
