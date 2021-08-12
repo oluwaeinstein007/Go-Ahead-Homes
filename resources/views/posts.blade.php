@@ -66,7 +66,8 @@
                 <div class="first container container-sm mt-3 mb-3 factors">
                     <h2><b>{{$post->title}}</b></h2>
                     <h6>by <a href="#">{{$post->user->name}}</a> <span>{{$post->created_at->diffForHumans()}}</span></h6>
-                    <img src= src="{{ asset('public/'.$post["picture"]) }}" alt="" class="first-img">
+                   
+                    <img src="{{asset($post->picture)}}" alt="" class="sticker">
                     <p><b> {{$post->descrip}}</b></p>
                 
 
