@@ -108,13 +108,13 @@
                 <div class="carousel-item active">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img " alt="...">
+                                <img src="/svg/kimberly.jpg" class="d-block w-100 slide-img " alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>KIMBERLY HOUSE</b></h5>
                                     <p class="carousel-capt">
-                                    16+ mother and baby accommodation<br>
-                                    Waltham Forest, London
+                                    Address: Waltham Forest, London <br>
+                                    Description: 16+ mother and baby accommodation
                                     </p>
                                     <br><br><br><br><br><br><br><br>
                             </div>
@@ -123,13 +123,14 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img " alt="...">
+                                <img src="/svg/warren.jpg" class="d-block w-100 slide-img " alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
-                                    <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
+                                    <h5 class="carousel-capt"><b>WARREN HOUSE</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Lorem ipsum dolor sit. <br>
-                                        Desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eveniet eos ad quam eius illo.
+                                            Address: Waltham Forest, London <br>
+                                            Description: 16+ Females only accommodation 
+                                             
                                     </p>
                                     <br><br><br><br><br><br><br><br>
                             </div>
@@ -138,13 +139,13 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="factors d-block w-100 slide-img " alt="...">
+                                <img src="/svg/end.jpg" class="factors d-block w-100 slide-img " alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
-                                    <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
+                                    <h5 class="carousel-capt"><b>Endsleigh House</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Lorem ipsum dolor sit. <br>
-                                        Desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eveniet eos ad quam eius illo.
+                                        Address: Redbridge, London  <br>
+                                        Description: 18+ Mixed gender accommodation 
                                     </p>
                                     <br><br><br><br><br><br><br><br>
                             </div>
@@ -153,13 +154,13 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img factors" alt="...">
+                                <img src="/svg/casitor.jpg" class="d-block w-100 slide-img factors" alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
-                                    <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
+                                    <h5 class="carousel-capt"><b>Caistor House</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Lorem ipsum dolor sit. <br>
-                                        Desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eveniet eos ad quam eius illo.
+                                        Address: Newham, London <br>
+                                        Description: 18+ Males only accommodation 
                                     </p>
                                     <br><br><br><br><br><br><br><br>
                             </div>
@@ -168,34 +169,36 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img factors" alt="...">
+                                <img src="/svg/manor.jpg" class="d-block w-100 slide-img factors" alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
-                                    <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
+                                    <h5 class="carousel-capt"><b>Manor House</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Lorem ipsum dolor sit. <br>
-                                        Desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eveniet eos ad quam eius illo.
-                                    </p>
-                                    <br><br><br><br><br><br><br><br>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="row-2">
-                            <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/house.png" class="d-block w-100 slide-img factors" alt="...">
-                            </div>
-                            <div class="block-1 first mb-4  container-md word">
-                                    <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
-                                    <p class="carousel-capt">
-                                        Address: Lorem ipsum dolor sit. <br>
-                                        Desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eveniet eos ad quam eius illo.
+                                        Address: Newham, London <br>
+                                        Description: 18+ Females only accommodation
                                     </p>
                                     <br><br><br><br><br><br><br><br>
                             </div>
                         </div>
                     </div>
 
+                    <div class="carousel-item">
+                        <div class="row-2">
+                            <div class="block-1 first mb-4 container-md">
+                                <img src="/svg/langdon.jpg" class="d-block w-100 slide-img factors" alt="...">
+                            </div>
+                            <div class="block-1 first mb-4  container-md word">
+                                    <h5 class="carousel-capt"><b>Langdon House </b></h5>
+                                    <p class="carousel-capt">
+                                        Address: East Ham, London <br>
+                                        Description: 16+ Mixed gender accommodation
+                                    </p>
+                                    <br><br><br><br><br><br><br><br>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
 
                 </div>
                 <a class="carousel-control-prev" href="#CaroEx" role="button" data-slide="prev">

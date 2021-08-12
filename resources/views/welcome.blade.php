@@ -67,8 +67,8 @@ COVID-19</p>
    </div>
 
    <!--<img src="{{asset('images/Project-Prints.png')}}" class="img-fluid" alt="Responsive image">-->
-   <div class="logo mt-4">
-        <h3><img src="/svg/home-logo.png" alt="" class="logo"> </h3>
+   <div class="logo-1 mt-4">
+        <h3><img src="/svg/home-logo.png" alt="" class="logo-1"> </h3>
         </div>
    
         <div class="page">
