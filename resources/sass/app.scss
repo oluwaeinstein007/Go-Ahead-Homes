@@ -384,8 +384,10 @@
         .logo-1 {
             float: left;
             width: 100px;
-            height: 70px;
-            margin-left: 10px;
+            height: 100px;
+            margin-right: 10%;
+            margin-bottom: 10%;
+            border-radius: 50%;
         }
         
         .row {
@@ -457,11 +459,10 @@
         h1 {
             color: #fff;
             text-transform: uppercase;
-            font-size: 6em;
+            font-size: 5em;
             text-align: center;
             line-height: 1em;
             white-space: nowrap;
-            overflow: hidden;
         }
         
         .type {
