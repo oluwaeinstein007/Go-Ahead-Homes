@@ -89,12 +89,12 @@
                             Go Ahead Homes is a private organisation dedicated to supporting young
                         people with low, medium and high level support needs, to make a positive
                         transition from residential or foster care into independent living, with continued
-                        outreach support. <br>
-                        We offer 24/7 supported 16+ accommodations and 18+ semi independent
-                        accommodations to our service users. These comprise of mixed gender, single
-                        gender, and mother and baby homes. <br>
+                        outreach support. <br> <br>
+                        We offer 24/7 support to service users in our 16+ accommodations, and semi-independent 
+                        accomodations to our 18+ service users. These comprise of mixed gender, single
+                        gender, and mother and baby homes. <br> <br>
                         A sense of belonging and stability is imperative for our young people who are
-                        exploring their identities following their different experience of being in care.
+                        exploring their identities, following their different experience of being in care.
                         Hence, our support services are targeted towards achieving personal,
                         educational, financial and mental betterment. <br>
                         
