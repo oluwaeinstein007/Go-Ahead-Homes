@@ -85,7 +85,7 @@
                 <br>
 
                 <div class="row-2">
-                    <div class="block-1 first mb-4 container-md move-right">
+                    <div class="block-1 mb-4 container-md move-right">
                             Go Ahead Homes is a private organisation dedicated to supporting young
                         people with low, medium and high level support needs, to make a positive
                         transition from residential or foster care into independent living, with continued
@@ -99,9 +99,9 @@
                         educational, financial and mental betterment. <br>
                         
                     </div>
-                    <div class="block-1 first mb-4 container-md move-left">
-                        <img src="/svg/about4.png" alt=""  class="d-block w-100">
-                        <br> 
+                    <div class="block-1 mb-4 container-md move-left">
+                        <img src="/svg/Project-Prints.png" class="d-block w-100 " alt=""> 
+                        
                     </div>
                 </div>
 
@@ -199,23 +199,23 @@
                 
 
                 <div class="row-2">
-                  <div class="block-1 mt-4 first mb-4 container-md roll">
+                  <div class="block-1 mt-4 mb-4 container-md roll">
                   
-                      Challenging & offending behaviour <br> <br>
-                      Sexual   health and identity <br> <br>
-                      Emotional health and well being <br> <br>
-                      Education, training & Employment <br> <br>
-                      Child sexual exploitation <br> <br>
-                      Domestic Abuse <br> <br>
-                      Alcohol and substance misuse <br> <br>
-                      Relationship building and family contact <br> <br>
-                      Asylum and Immigration matters <br> <br>
-                      Low to medium mental health needs <br> <br>
-                      Low Special educational needs. <br> <br>
+                      Challenging & offending behaviour <br> 
+                      Sexual   health and identity <br> 
+                      Emotional health and well being <br> 
+                      Education, training & Employment <br> 
+                      Child sexual exploitation <br>
+                      Domestic Abuse <br> 
+                      Alcohol and substance misuse <br> 
+                      Relationship building and family contact <br> 
+                      Asylum and Immigration matters <br> 
+                      Low to medium mental health needs <br> 
+                      Low Special educational needs. <br> 
                   </div>
-                  <div class="block-1  first mb-4 container-md twist">
+                  <div class="block-1  mb-4 container-md twist">
                      <img src="/svg/homes.jpg" class="d-block w-100" alt="...">
-                     <br> <br> <br>
+                     
                   </div>
                 </div>
                 <br>

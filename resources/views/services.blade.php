@@ -284,19 +284,19 @@
                  <br>
 
                  <div class="row-2">
-                    <div class="block-1 first mb-4 container-md">
-                          <img src="/svg/Project-Prints.png" class="about-img" alt="">      
+                    <div class="block-1  mb-4 container-md">
+                    <img src="/svg/about4.png" alt=""  class="d-block w-100">     
                     </div>
-                    <div class="block-1 first mb-4 container-md">
+                    <div class="block-1  mb-4 container-md">
                         
-                        <h3>OUR SERVICE USERS</h3> <br>
+                        <h3>OUR SERVICE USERS</h3> <br> 
                             <p>Young people involved with the youth offending service <br>
                             Unaccompanied Asylum Seeking Children (UASC) <br>
                             Young people at risk of Child Sexual Exploitation (CSE) <br>
                             Young people involved with the youth offending service <br>
                             Unaccompanied Asylum Seeking Children (UASC) <br>
                             Young people at risk of Child Sexual Exploitation (CSE) <br</p>
-                            <br><br><br><br><br><br><br><br><br><br><br><br>
+                            
                     </div>
                 </div>
 
