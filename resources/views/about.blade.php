@@ -86,7 +86,8 @@
 
                 <div class="row-2">
                     <div class="block-1 mb-4 container-md move-right">
-                            Go Ahead Homes is a private organisation dedicated to supporting young
+                         <h5>
+                         Go Ahead Homes is a private organisation dedicated to supporting young
                         people with low, medium and high level support needs, to make a positive
                         transition from residential or foster care into independent living, with continued
                         outreach support. <br> <br>
@@ -97,6 +98,7 @@
                         exploring their identities, following their different experience of being in care.
                         Hence, our support services are targeted towards achieving personal,
                         educational, financial and mental betterment. <br>
+                         </h5>
                         
                     </div>
                     <div class="block-1 mb-4 container-md move-left">
