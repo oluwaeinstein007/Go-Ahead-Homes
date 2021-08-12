@@ -203,6 +203,7 @@
                 <div class="row-2">
                   <div class="block-1 mt-4 mb-4 container-md roll">
                   
+                      <h3>
                       Challenging & offending behaviour <br> 
                       Sexual   health and identity <br> 
                       Emotional health and well being <br> 
@@ -213,7 +214,8 @@
                       Relationship building and family contact <br> 
                       Asylum and Immigration matters <br> 
                       Low to medium mental health needs <br> 
-                      Low Special educational needs. <br> 
+                      Low Special educational needs. <br>
+                      </h3> 
                   </div>
                   <div class="block-1  mb-4 container-md twist">
                      <img src="/svg/homes.jpg" class="d-block w-100" alt="...">
