@@ -30,7 +30,7 @@
 
       <nav class="navbar navbar-expand-sm navbar-dark bg-dark" text-color="red">
                 <div class="container">
-                    <a href="{{ url('/') }}" class="navbar-brand">Go Ahead Homes</a>
+                    <a href="{{ url('/') }}" class="navbar-brand"><img src="/svg/home-logo.png" alt="" class="logo"> </a>
                     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
                     <span class="navbar-toggler-icon"></span>
                     </button>

@@ -10460,10 +10460,9 @@ hr {
 
 .logo {
   float: left;
-  width: 150px;
-  height: auto;
+  width: 100px;
+  height: 70px;
   margin-left: 10px;
-  color: #fff;
 }
 
 .row {
@@ -10482,7 +10481,7 @@ hr {
 }
 
 .contact-page {
-  background: url("/svg/youth.jpg") no-repeat center center fixed;
+  background: url("/svg/contact-us.png") no-repeat center center fixed;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
@@ -10501,16 +10500,6 @@ hr {
   width: 100%;
 }
 
-/*  
-.home {
-    background: url("images/Project-Prints.png") no-repeat center center fixed;
-    background-size: cover;
-    object-fit: cover;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-}
-*/
 .bill {
   background: linear-gradient(to right, #00093c, #2d0b00);
   opacity: 0.7;

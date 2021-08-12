@@ -95,6 +95,10 @@
                    <br>
 
 
+                   @extends('layouts.footer')
+
+                    @section('content')
+
         </div>
 
     
@@ -103,18 +107,8 @@
                         
            
 
-        <footer>
-        <div class="row">
-          <div class="col">
-            <h3>Social Media <div class="underline"><span></span></div></h3>
-            <div class="social">
-            <i class="fab fa-facebook-f"></i>
-            <i class="fab fa-twitter"></i>
-            <i class="fab fa-linkedin-in"></i>
-            <i class="fab fa-instagram"></i>
-            @extends('layouts.footer')
-
-          @section('content')
+      
+          
         
         
     </body>

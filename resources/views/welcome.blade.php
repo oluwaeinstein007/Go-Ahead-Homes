@@ -67,13 +67,13 @@ COVID-19</p>
    </div>
 
    <!--<img src="{{asset('images/Project-Prints.png')}}" class="img-fluid" alt="Responsive image">-->
-   <div class="logo">
-        <h3>Go Ahead Homes</h3>
+   <div class="logo mt-4">
+        <h3><img src="/svg/home-logo.png" alt="" class="logo"> </h3>
         </div>
    
         <div class="page">
         <div class="content welc">
-        <h1 class="type">WELCOME</h1>
+        <h1 class="">WELCOME</h1>
         </div>
        <!-- <p class="pl-5 pr-5"><b>In the UK, around 40,000 children and young people enter the care system. That’s 109 every day. There are currently around 99,000 children in the UK who are classified as looked-after away from home.
          <br> In line with the above parameters, our company was formed to render supportive living to help young people retain their independence in their local communities.
