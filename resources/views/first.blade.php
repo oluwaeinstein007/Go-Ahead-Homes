@@ -83,7 +83,7 @@
     </div>
     <div class="carousel-item">
       <img src="/svg/empower.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-md-block word">
+      <div class="carousel-caption d-md-block word caro-sm">
         <h5><b>YOUTH SUPPORT & EMPOWERMENT</b></h5>
         <p>Extensive involvement with Health practitioners, Social workers, Counsellors, etc, ensure our young people are supported fully in all aspects of life </p>
       </div>
@@ -111,7 +111,7 @@
     </div>
     <div class="carousel-item">
       <img src="/svg/trained.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption  d-md-block word">
+      <div class="carousel-caption  d-md-block word caro-sm">
         <h5><b>WELL TRAINED AND QUALIFIED STAFF</b></h5>
         <p>All our staff have basic social care qualifications, such as DBS certificates, core skills, safeguarding certificate etc. All to ensure adequate delivery of services to our Young  people.</p>
       </div>
