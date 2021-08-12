@@ -31,18 +31,19 @@
           <div class="col">
             <h3>Social Media <div class="underline"><span></span></div></h3>
             <div class="social">
-            <i class="fab fa-facebook-f"></i>
-            <i class="fab fa-twitter"></i>
-            <i class="fab fa-linkedin-in"></i>
-            <i class="fab fa-instagram"></i>
+            <a href="https://www.facebook.com/goaheadhomeslimited/"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://twitter.com/goaheadhomes?s=12"> <i class="fab fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/goaheadhomesltd"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://instagram.com/goaheadhomes?igshid=1j76ux478qc5w"><i class="fab fa-instagram"></i></a>
+            
             </div>
               </div>
           <div class="col">
               <h3>OFFICE <div class="underline"><span></span></h3>
               <p><i class="far fa-building"></i>Suite 2 Fountain House, Elm Park, Stanmore, UK</p>
-              <p class="email-id"><i class="far fa-envelope"></i>info@goaheadhomes.com</p>
-              <p class="email-id"><i class="far fa-envelope"></i>placements@goaheadhomes.com</p>
-              <h4><i class="fas fa-mobile-alt"></i>+44 20 3417 7374</h4>
+              <p class="email-id"><a href="mailto:{info@goaheadhomes.com}?subject={subject}&body={content}"><i class="far fa-envelope"></i></a>info@goaheadhomes.com</p>
+              <p class="email-id"><a href="mailto:{placements@goaheadhomes.com}?subject={subject}&body={content}"><i class="far fa-envelope"></i></a>placements@goaheadhomes.com</p>
+              <h4><a href="tel:{+442034177374}"><i class="fas fa-mobile-alt"></i></a>+44 20 3417 7374</h4>
           </div>
           <div class="col">
             <h3>Partners <div class="underline"><span></span></h3>

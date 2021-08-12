@@ -114,10 +114,15 @@
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>KIMBERLY HOUSE</b></h5>
                                     <p class="carousel-capt">
-                                    Address: Waltham Forest, London <br>
-                                    Description: 16+ mother and baby accommodation
+                                    <b>Address:</b> Waltham Forest, London <br>
+                                    <b>Description:</b> 4, bedrooms, 16+ mother and baby accommodation <br>
+                                    <b>It’s surroundings:</b> <br>
+                                    Tesco express <br>
+                                    Sir George Monoux college <br>
+                                    Whipps cross hospital <br>
+                                    Empire cinemas <br>
+                                    Chingford police station 
                                     </p>
-                                    <br><br><br><br><br><br><br><br>
                             </div>
                         </div>
                     </div>
@@ -129,11 +134,17 @@
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>WARREN HOUSE</b></h5>
                                     <p class="carousel-capt">
-                                            Address: Waltham Forest, London <br>
-                                            Description: 16+ Females only accommodation 
+                                            <b>Address:</b> Waltham Forest, London <br>
+                                            <b>Description:</b> 5 bedrooms, 16+ Females only accommodation <br>
+                                            <b>It’s surroundings:</b> <br>
+                                            Walthamstow market and shopping center <br>
+                                            Chingford leisure centre <br>
+                                            Larkshall medical centre <br>
+                                            Chingford police station <br>
+                                            Stratford city 
                                              
                                     </p>
-                                    <br><br><br><br><br><br><br><br>
+                                    
                             </div>
                         </div>
                     </div>
@@ -145,10 +156,16 @@
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>Endsleigh House</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Redbridge, London  <br>
-                                        Description: 18+ Mixed gender accommodation 
+                                        <b>Address:</b> Redbridge, London  <br>
+                                        <b>Description:</b> 6 bedrooms, 18+ Mixed gender accommodation <br>
+                                        <b>It’s surroundings:</b> <br>
+                                        Sainsbury’s <br>
+                                        Abbey leisure centre <br>
+                                        Granville medical center <br>
+                                        Newham college <br>
+                                        Ilford police station <br>
                                     </p>
-                                    <br><br><br><br><br><br><br><br>
+                                   
                             </div>
                         </div>
                     </div>
@@ -160,10 +177,15 @@
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>Caistor House</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Newham, London <br>
-                                        Description: 18+ Males only accommodation 
+                                        <b>Address:</b> Newham, London <br>
+                                        <b>Description:</b> 4 bedrooms, 18+ Males only accommodation <br>
+                                        <b>It’s surroundings:</b> <br>
+                                        Westfield superstore <br>
+                                        Vue cinema <br>
+                                        Stratford police station <br>
+                                        University of East London <br>
                                     </p>
-                                    <br><br><br><br><br><br><br><br>
+                                    
                             </div>
                         </div>
                     </div>
@@ -175,10 +197,16 @@
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>Manor House</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Newham, London <br>
-                                        Description: 18+ Females only accommodation
+                                        <b>Address:</b> Newham, London <br>
+                                        <b>Description:</b> 4 bedrooms, 18+ Females only accommodation <br>
+                                        <b>It’s surroundings:</b> <br>
+                                        Sainsbury <br>
+                                        Newham academy of music <br>
+                                        Stratford police station <br>
+                                        Newham university hospital <br>
+                                        Manor park rail station <br>
                                     </p>
-                                    <br><br><br><br><br><br><br><br>
+                                    
                             </div>
                         </div>
                     </div>
@@ -191,10 +219,16 @@
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>Langdon House </b></h5>
                                     <p class="carousel-capt">
-                                        Address: East Ham, London <br>
-                                        Description: 16+ Mixed gender accommodation
+                                        <b>Address:</b> East Ham, London <br>
+                                        <b>Description:</b> 5 bedrooms, 16+ Mixed gender accommodation <br>
+                                        <b>It’s surroundings:</b> <br>
+                                        Stratford shopping center <br>
+                                        Showcase Newham cinema <br>
+                                        Stamford college <br>
+                                        Newham university hospital <br>
+                                        Metropolitan police station
                                     </p>
-                                    <br><br><br><br><br><br><br><br>
+                                    
                             </div>
                         </div>
                     </div>
