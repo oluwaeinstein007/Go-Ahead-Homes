@@ -111,10 +111,10 @@
                                 <img src="/svg/house.png" class="d-block w-100 slide-img " alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
-                                    <h5 class="carousel-capt"><b>5, bedroom flat</b></h5>
+                                    <h5 class="carousel-capt"><b>KIMBERLY HOUSE</b></h5>
                                     <p class="carousel-capt">
-                                        Address: Lorem ipsum dolor sit. <br>
-                                        Desc: Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eveniet eos ad quam eius illo.
+                                    16+ mother and baby accommodation<br>
+                                    Waltham Forest, London
                                     </p>
                                     <br><br><br><br><br><br><br><br>
                             </div>
