@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Go Ahead Homes</title>
+        <title>Go Ahead Homes - Testimonials</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -46,11 +46,11 @@
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/services') }}">Services</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item activate">
                         <a class="nav-link active" href="{{ url('/testimonials') }}">Testimonials</a>
                         </li>
-                        <li class="nav-item activate">
-                        <a class="nav-link active" href="{{ url('/news') }}">News</a>
+                        <li class="nav-item ">
+                        <a class="nav-link" href="{{ url('/news') }}">News</a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/contact') }}">Contact Us</a>
