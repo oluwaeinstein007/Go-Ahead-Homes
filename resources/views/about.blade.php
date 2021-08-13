@@ -85,7 +85,7 @@
                 <br>
 
                 <div class="row-2">
-                    <div class="block-1 mb-4 container-md move-right">
+                    <div class="block-1 mb-4 first container-md move-right">
                          <h5>
                          Go Ahead Homes is a private organisation dedicated to supporting young
                         people with low, medium and high level support needs, to make a positive
