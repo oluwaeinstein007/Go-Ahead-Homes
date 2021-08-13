@@ -299,7 +299,7 @@
      
                 <div class="plate container-sm container">
                 <h3>WORK EXPERIENCE AND EMPLOYMENT OPPORTUNITIES FOR YOUNG PEOPLE WHO ARE NEET</h3> <br>
-                <div class="factors"><img src="/svg/employ.svg" alt=""  class="first-img"></div>
+                <div class="factors"><img src="/svg/employ.svg" alt=""  class="sticker"></div>
                 <p>In recognising that we all come from different walks of life, Go Ahead Homes is
                 dedicated to promoting equal opportunities for our young people that will help
                 to shape their futures in a positive and empowering way, irrespective of their
