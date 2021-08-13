@@ -12,14 +12,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="description" content="This is the official website of Go Ahead Homes">
-        <meta name="keywords" content="contact go ahead homes, accomodations, semi-independent, supported living services, care leavers, care providers,Go Ahead Homes">
+        <meta name="keywords" content="home go ahead homes, accomodations, semi-independent, supported living services, care leavers, care providers,Go Ahead Homes">
         <meta name="author" content="Sanni Q. Lanre">
         <link rel="shortcut icon" href="/svg/home-logo.png" type="image/x-icon">
         <meta property="og:title" content="Go Ahead Homes" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://goaheadhomes.com/first" />
         <meta property="og:image" content="/svg/home-logo.png" />
-        <meta property="og:description" content="This is the official contact page of Go Ahead Homes" />
+        <meta property="og:description" content="This is the official home page of Go Ahead Homes" />
         <meta property="og:site_name" content="Go Ahead Homes" />
 
         <title>Official Go Ahead Homes - Home</title
