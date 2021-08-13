@@ -9,7 +9,13 @@
         <meta name="keywords" content="accomodations, semi-independent, supported living services, care leavers, care providers,Go Ahead Homes">
         <meta name="author" content="Sanni Q. Lanre">
         <link rel="shortcut icon" href="/svg/home-logo.png" type="image/x-icon">
-        <title>Go Ahead Homes</title>
+        <meta property="og:title" content="Go Ahead Homes" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://goaheadhomes.com/" />
+        <meta property="og:image" content="/svg/home-logo.png" />
+        <meta property="og:description" content="This is the official website of Go Ahead Homes" />
+        <meta property="og:site_name" content="Go Ahead Homes" />
+       
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
