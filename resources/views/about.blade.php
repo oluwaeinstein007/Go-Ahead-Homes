@@ -218,17 +218,19 @@
                   <div class="block-1 mt-4 mb-4 container-md roll first">
                   
                       <h3>
-                      Challenging & offending behaviour <br> 
-                      Sexual   health and identity <br> 
-                      Emotional health and well being <br> 
-                      Education, training & Employment <br> 
-                      Child sexual exploitation <br>
-                      Domestic Abuse <br> 
-                      Alcohol and substance misuse <br> 
-                      Relationship building and family contact <br> 
-                      Asylum and Immigration matters <br> 
-                      Low to medium mental health needs <br> 
-                      Low Special educational needs. <br>
+                      <ul>
+                      <li>Challenging & offending behaviour <br> </li>
+                      <li>Sexual   health and identity <br> </li>
+                      <li>Emotional health and well being <br> </li>
+                      <li>Education, training & Employment <br> </li>
+                      <li>Child sexual exploitation <br></li>
+                      <li>Domestic Abuse <br> </li>
+                      <li>Alcohol and substance misuse <br> </li>
+                      <li>Relationship building and family contact <br> </li>
+                      <li>Asylum and Immigration matters <br></li> 
+                      <li>Low to medium mental health needs <br> </li>
+                      <li>Low Special educational needs. <br></li>
+                      </ul>
                       </h3> 
                   </div>
                   <div class="block-1  mb-4 container-md twist">
