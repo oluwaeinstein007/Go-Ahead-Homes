@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
+    <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="This is the official website of Go Ahead Homes">
+        <meta name="keywords" content="testimonials go ahead homes, accomodations, semi-independent, supported living services, care leavers, care providers,Go Ahead Homes">
+        <meta name="author" content="Sanni Q. Lanre">
+        <link rel="shortcut icon" href="/svg/home-logo.png" type="image/x-icon">
+        <meta property="og:title" content="Go Ahead Homes" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://goaheadhomes.com/testimonials" />
+        <meta property="og:image" content="/svg/home-logo.png" />
+        <meta property="og:description" content="This is the official news page of Go Ahead Homes" />
+        <meta property="og:site_name" content="Go Ahead Homes" />
 
-        <title>Go Ahead Homes - Testimonials</title>
+        <title>Official Go Ahead Homes - Testimonials</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">

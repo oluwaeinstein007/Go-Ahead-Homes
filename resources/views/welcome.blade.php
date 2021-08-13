@@ -15,6 +15,7 @@
         <meta property="og:image" content="/svg/home-logo.png" />
         <meta property="og:description" content="This is the official website of Go Ahead Homes" />
         <meta property="og:site_name" content="Go Ahead Homes" />
+        <title>Official Go Ahead Homes website</title>
        
 
         <!-- Fonts -->
