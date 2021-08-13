@@ -22,7 +22,7 @@
         <meta property="og:description" content="This is the official home page of Go Ahead Homes" />
         <meta property="og:site_name" content="Go Ahead Homes" />
 
-        <title>Official Go Ahead Homes - Home</title
+        <title>Official Go Ahead Homes - Home</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
