@@ -70,7 +70,7 @@
             <div class="plate container container-sm">
             <div class="factors">
             <h3>ACCOMMODATIONS </h3> <br>
-            <img src="/svg/housing.svg" alt=""  class="first-img">
+            <img src="/svg/housing.svg" alt=""  class="sticker">
             </div>
             <p>We strive to create a safe, friendly and homely environment to enable our
             young people feel safe and valued. Our young people have their individual
