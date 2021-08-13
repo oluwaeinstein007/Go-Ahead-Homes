@@ -78,9 +78,10 @@
             </div>
 -->             
                 <br>
-                <div class="factors container-md container">
+                <div class="factors container-md container bill">
                 <h2>“Empowering the youth of today to excel in the world of tomorrow”</h2>
-                   <br> - EST 2018
+                   <br> <h2>- EST 2018</h2>
+                   
                 </div>
                 <br>
 

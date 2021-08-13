@@ -4,7 +4,11 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="This is the official website of Go Ahead Homes">
+        <meta name="keywords" content="accomodations, semi-independent, supported living services, care leavers, care providers,Go Ahead Homes">
+        <meta name="author" content="Sanni Q. Lanre">
+        <link rel="shortcut icon" href="/svg/home-logo.png" type="image/x-icon">
         <title>Go Ahead Homes</title>
 
         <!-- Fonts -->
