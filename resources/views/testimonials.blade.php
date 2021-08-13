@@ -43,11 +43,11 @@
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/about') }}">About</a>
                         </li>
-                        <li class="nav-item activate">
-                        <a class="nav-link active" href="{{ url('/services') }}">Services</a>
+                        <li class="nav-item ">
+                        <a class="nav-link" href="{{ url('/services') }}">Services</a>
                         </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/testimonials') }}">Testimonials</a>
+                        <li class="nav-item activate">
+                        <a class="nav-link active" href="{{ url('/testimonials') }}">Testimonials</a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/news') }}">News</a>
@@ -60,7 +60,7 @@
         </nav>
 
 
-        <h2 class="factors mt-4">Testimonials</h2>
+        <h2 class="factors mt-4">Testimonial</h2>
 
         @if($posts->count())
 
