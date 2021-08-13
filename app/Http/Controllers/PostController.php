@@ -29,9 +29,14 @@ class PostController extends Controller
         ]);
 
         $file = $request->picture;
-        
-        $image_name = md5(time().uniqid()).".".$request->picture->extension();
+        $image_name = "";
+
+        if($file){
+            $image_name = md5(time().uniqid()).".".$request->picture->extension();
         $path = $request->picture->move(public_path('uploads'), $image_name);
+        }
+        
+        
 
         $request-> user()-> posts()-> create([
             'user_id' => auth() -> id(),
