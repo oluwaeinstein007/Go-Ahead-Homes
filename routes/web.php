@@ -58,7 +58,7 @@ Route::get('/news', [NewsController::class, 'index'])->name('news');
 Route::get('/testimonials/{id}', [TestimonialsController::class, 'single'])->name('testimonials.single');
 Route::get('/testimonials', [TestimonialsController::class, 'index'])->name('testimonials');
 
-Route::get('/contact', [EnquiryController::class, 'index'])->name('testimonials');
+Route::get('/contact', [EnquiryController::class, 'index'])->name('contact');
 Route::post('/contact', [EnquiryController::class, 'store']);
 Route::get('/email-success', [EnquiryController::class, 'successful']);
 Route::get('/email-view', [EnquiryController::class, 'show']);

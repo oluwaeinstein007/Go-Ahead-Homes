@@ -65,6 +65,11 @@ class EnquiryController extends Controller
         $enquiry ->   subject = $request -> subject;
 
         if ($enquiry -> save() == true){
+
+            $admin_email = 'slanre26@gmail.com';
+
+            Mail::to($admin_email) -> send(new contactMail($data));
+           
             return view('email-success');
         }
         else{
@@ -73,10 +78,7 @@ class EnquiryController extends Controller
         }
           
         
-        $admin_email = 'slanre26@gmail.com';
-
-        Mail::to($admin_email) -> send(new contactMail($data));
-       
+      
 
         
 

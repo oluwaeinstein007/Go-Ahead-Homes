@@ -50,19 +50,19 @@
                               <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="/svg/enfield.jpg" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/enfield.jpg')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                       <img src="/svg/sutton.jpg" class="d-block w-100 slide-img" alt="...">
+                       <img src="{{asset('/svg/sutton.jpg')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="/svg/barking.jpg" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/barking.jpg')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="/svg/tower.jpg" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/tower.jpg')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="/svg/forrest.png" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/forrest.png')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
