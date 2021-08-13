@@ -3,7 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\NewsController;
-use App\Http\Controllers\TestimonialsController;
+use App\Http\Controllers\TestimonialsController; 
+use App\Http\Controllers\EnquiryController; 
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -56,3 +57,8 @@ Route::get('/news', [NewsController::class, 'index'])->name('news');
 
 Route::get('/testimonials/{id}', [TestimonialsController::class, 'single'])->name('testimonials.single');
 Route::get('/testimonials', [TestimonialsController::class, 'index'])->name('testimonials');
+
+Route::get('/contact', [EnquiryController::class, 'index'])->name('testimonials');
+Route::post('/contact', [EnquiryController::class, 'store']);
+Route::get('/email-success', [EnquiryController::class, 'successful']);
+Route::get('/email-view', [EnquiryController::class, 'show']);

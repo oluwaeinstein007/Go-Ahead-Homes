@@ -73,12 +73,14 @@
 
 
                    <div class="container container-sm first">
-                    <form method="post" action="" enctype="multipart/form-data">
+                    <form method="post" action="{{ url('/contact') }}" enctype="multipart/form-data">
                                   @csrf
                             
                             <div class="form-group">
+                            <label for="">Name</label>
+                            <input type="text" class="form-control" name="name" id="" placeholder="John Doe">
                             <label for="">Email</label>
-                            <input type="email" class="form-control" name="from_mail" id="from_mail" placeholder="Enter Your Email">
+                            <input type="email" class="form-control" name="email" id="from_mail" placeholder="Enter Your Email">
                             <label for="number">Phone Number</label>
                             <input type="text" class="form-control" name="number" id="number" placeholder="Phone Number">
                             <label for="subject">Subject</label>
@@ -86,7 +88,7 @@
                             </div>
                             <div class="form-group">
                             <label for="">Email</label>
-                            <textarea type="text" class="form-control" cols="50" rows="7" name="content" id="video_descrip" placeholder="Email Content"></textarea>
+                            <textarea type="text" class="form-control" cols="50" rows="7" name="content" id="content" placeholder="Email Content"></textarea>
                             </div>
                     
                             <button class="r btn btn-danger rounded-pill float-right" name="send_email" type="submit">Send Email</button>

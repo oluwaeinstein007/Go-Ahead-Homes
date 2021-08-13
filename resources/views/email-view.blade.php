@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Go Ahead Homes - Testimonials</title>
+        <title>Go Ahead Homes</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
 
       <nav class="navbar navbar-expand-sm navbar-dark bg-dark" text-color="red">
                 <div class="container">
-                <a href="{{ url('/') }}" class="navbar-brand"> <img src="/svg/home-logo.png" alt="" class="logo mr-2"> Go Ahead Homes </a>
+                    <a href="{{ url('/') }}" class="navbar-brand">Go Ahead Homes</a>
                     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -43,8 +43,8 @@
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/about') }}">About</a>
                         </li>
-                        <li class="nav-item activate">
-                        <a class="nav-link active" href="{{ url('/services') }}">Services</a>
+                        <li class="nav-item">
+                        <a class="nav-link" href="{{ url('/services') }}">Services</a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/testimonials') }}">Testimonials</a>
@@ -52,27 +52,27 @@
                         <li class="nav-item">
                         <a class="nav-link" href="{{ url('/news') }}">News</a>
                         </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="{{ url('/contact') }}">Contact Us</a>
+                        <li class="nav-item activate">
+                        <a class="nav-link active" href="{{ url('/contact') }}">Contact Us</a>
                         </li>
                     </ul>
                 </div>
         </nav>
 
+     
 
-        <h2 class="factors mt-4">Testimonials</h2>
+        <div class="contact-page">
+        <h2 class="factors mt-4">Blogs & Activities</h2>
 
-        @if($posts->count())
+        @if($enquiry->count())
 
-        @foreach($posts as $post)
-            <div class="first container container-sm mt-3 mb-3 factors">
-                <h2><b>{{$post->title}}</b></h2>
-                <h6>by <a href="#">{{$post->user->name}}</a> <span>{{$post->created_at->diffForHumans()}}</span></h6>
-                <img src="{{asset($post->picture)}}" alt="" class="sticker">
-                <p><b>{{ \Illuminate\Support\Str::limit($post->descrip, 10, $end='...')}}</b><a class="nav-link" href="{{url('/testimonials/'.$post->id)}}">Read More</a></p>
-                
-            </div>
-        @endforeach
+        @foreach($enquiry as $enquiry)
+        <b>Name</b> {{$enquiry['name']}}
+        <b>Email</b> {{$enquiry['email']}}
+        <b>Phone Number</b> {{$enquiry['number']}}
+        <b>Subject</b> {{$enquiry['subject']}}
+        <b>Message</b> {{$enquiry['content']}}
+                @endforeach
 
 
 
@@ -81,15 +81,15 @@
             @endif
 
 
-     
-
     
         
 
                         
            
-                    @extends('layouts.footer')
 
-                        @section('content')
+      
+          
+        
+        
     </body>
 </html>
