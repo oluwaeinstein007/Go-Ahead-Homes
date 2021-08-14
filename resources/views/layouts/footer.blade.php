@@ -53,16 +53,16 @@
                         <img src="{{asset('/svg/enfield.jpg')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                       <img src="{{asset('/svg/sutton.jpg')}}" class="d-block w-100 slide-img" alt="...">
+                       <img src="{{asset('/svg/sutton.JPG')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="{{asset('/svg/barking.jpg')}}" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/barking.JPG')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="{{asset('/svg/tower.jpg')}}" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/tower.JPG')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="{{asset('/svg/forrest.png')}}" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/forrest.PNG')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
