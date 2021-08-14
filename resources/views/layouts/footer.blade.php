@@ -50,7 +50,7 @@
                               <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="{{asset('/svg/enfield.jpg')}}" class="d-block w-100 slide-img" alt="...">
+                        <img src="{{asset('/svg/enfield.JPG')}}" class="d-block w-100 slide-img" alt="...">
                       </div>
                       <div class="carousel-item">
                        <img src="{{asset('/svg/sutton.JPG')}}" class="d-block w-100 slide-img" alt="...">
