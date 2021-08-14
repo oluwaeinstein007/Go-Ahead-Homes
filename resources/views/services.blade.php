@@ -168,7 +168,7 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/end.jpg" class="factors d-block w-100 slide-img " alt="...">
+                                <img src="/svg/end.JPG" class="factors d-block w-100 slide-img " alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>Endsleigh House</b></h5>
@@ -189,7 +189,7 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/casitor.jpg" class="d-block w-100 slide-img factors" alt="...">
+                                <img src="/svg/casitor.JPG" class="d-block w-100 slide-img factors" alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>Caistor House</b></h5>
@@ -209,7 +209,7 @@
                     <div class="carousel-item">
                         <div class="row-2">
                             <div class="block-1 first mb-4 container-md">
-                                <img src="/svg/manor.jpg" class="d-block w-100 slide-img factors" alt="...">
+                                <img src="/svg/manor.JPG" class="d-block w-100 slide-img factors" alt="...">
                             </div>
                             <div class="block-1 first mb-4  container-md word">
                                     <h5 class="carousel-capt"><b>Manor House</b></h5>
