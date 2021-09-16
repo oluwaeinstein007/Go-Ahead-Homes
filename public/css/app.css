@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);
-@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Poppins);
+@import url(https://fonts.googleapis.com/css2?family=Markazi+Text&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Alegreya&display=swap);
 @charset "UTF-8";
 /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
@@ -10010,6 +10012,14 @@ h3 {
   font-family: "Poppins", sans-serif;
 }
 
+.Markazi {
+  font-family: "Markazi Text";
+}
+
+.Alegreya {
+  font-family: "Alegreya";
+}
+
 @media (max-width: 400px) {
   .caro-sm h5 {
     font-size: 20px;
@@ -10028,6 +10038,11 @@ h3 {
   .sticker {
     height: 250px;
     width: 220px;
+  }
+
+  .first-img {
+    height: 276px;
+    width: 600px;
   }
 
   .blog-img {
@@ -10161,9 +10176,14 @@ footer {
     margin: 20px;
   }
 
+  .rescale-caro {
+    width: 640px;
+    height: 400px;
+  }
+
   .sticker {
     height: 420px;
-    width: 400;
+    width: 400px;
   }
 
   .row-2 {

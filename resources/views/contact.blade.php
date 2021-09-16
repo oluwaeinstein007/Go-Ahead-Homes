@@ -77,12 +77,13 @@
      
 
         <div class="contact-page">
+            <!--
         <section class="location">
             <div>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2477.3869218966934!2d-0.31398988485870294!3d51.61612107965317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876146bd40bb663%3A0x61c616339e8df091!2sFountain%20House!5e0!3m2!1sen!2sng!4v1627587527346!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
             </section>
-
+            -->
 
                    <br>
 

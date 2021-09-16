@@ -100,7 +100,7 @@
 
                 <div class="row-2">
                     <div class="block-1 mb-4 container-md move-right">
-                         <h5>
+                         <h5 class="Markazi">
                          Go Ahead Homes is a private organisation dedicated to supporting young
                         people with low, medium and high level support needs, to make a positive
                         transition from residential or foster care into independent living, with continued
@@ -207,7 +207,7 @@
                 
                 <div class="container-md container appear">
                 <div class="factors">
-                <h2>Our well trained staff are on hand 24/7 to provide our residents with the support
+                <h2 class="Markazi">Our well trained staff are on hand 24/7 to provide our residents with the support
                 and guidance they require. All our staff are experienced in supporting our
                 young people to make positive development within the following focus areas: <br></h2>
                 </div>

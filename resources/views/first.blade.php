@@ -92,42 +92,42 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/svg/young.png" class="d-block w-100" alt="...">
+      <img src="/svg/young.png" class="d-block w-100 rescale-caro" alt="...">
       <div class="carousel-caption  d-md-block word">
         <h5><b>YOUNG PEOPLE CENTERED CARE</b></h5>
         <p>Our Young people are at the centre of all that we do</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/empower.png" class="d-block w-100" alt="...">
+      <img src="/svg/empower.png" class="d-block w-100 rescale-caro" alt="...">
       <div class="carousel-caption d-md-block word caro-sm">
         <h5><b>YOUTH SUPPORT & EMPOWERMENT</b></h5>
         <p>Extensive involvement with Health practitioners, Social workers, Counsellors, etc, ensure our young people are supported fully in all aspects of life </p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/rate.png" class="d-block w-100" alt="...">
+      <img src="/svg/rate.png" class="d-block w-100 rescale-caro" alt="...">
       <div class="carousel-caption d-md-block word">
         <h5><b>FIRST RATE ACCOMODATION</b></h5>
         <p>Our Homely accommodations are of the very best quality in the industry.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/transition.png" class="d-block w-100" alt="...">
+      <img src="/svg/transition.png" class="d-block w-100 rescale-caro" alt="...">
       <div class="carousel-caption d-md-block word">
         <h5><b>POSITIVE TRANSITIONS</b></h5>
         <p>Out of 5 young people placed with us, 3 get into their College of choice each year.</p>
         </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/babies.png" class="d-block w-100" alt="...">
+      <img src="/svg/babies.png" class="d-block w-100 rescale-caro" alt="...">
       <div class="carousel-caption d-md-block word">
         <h5><b>HOME FOR YOUNG MOTHERS AND BABIES</b></h5>
         <p>Our all-inclusive-care system accommodates teen mothers and their young </p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/svg/trained.png" class="d-block w-100" alt="...">
+      <img src="/svg/trained.png" class="d-block w-100 rescale-caro" alt="...">
       <div class="carousel-caption  d-md-block word caro-sm">
         <h5><b>WELL TRAINED AND QUALIFIED STAFF</b></h5>
         <p>All our staff have basic social care qualifications, such as DBS certificates, core skills, safeguarding certificate etc. All to ensure adequate delivery of services to our Young  people.</p>
@@ -143,6 +143,11 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+            
+
+
            <!--check-->
            <!--
            <div class="row-2">
@@ -166,8 +171,12 @@
            <!--end check-->
 
 
+        
+                <!-- hey-->
+
+
         <div class="container container-sm mt-3 mb-3 factors">
-        <h2 class="appear"><b>We are an independent care provider who specialise in supported living services and semi-independent accommodation for 16+ care leavers across the UK.</b></h2>
+        <h2 class="appear Alegreya"><b>We are an independent care provider who specialise in supported living services and semi-independent accommodation for 16+ care leavers across the UK.</b></h2>
         <a href="{{ url('/about') }}"><button class="btn btn-info rounded">Know More</button></a>
         </div>
 
@@ -175,38 +184,70 @@
 
         <h2 class="factors twist">OUR WOW FACTORS</h2>
 
+        <div class="row-2 rise">
+                    <div class="block-1 first mb-4 container-md move-left">
+                            <div class="factors">
+                            <h2><b>Person centered care</b></h2> <br>
+                            <img src="/svg/personcent.svg" alt=""  class="sticker factors d-block">
+                             </div>
+                       
+                       
+                             <h6><b>We provide a tailored service approach, which targets the specific needs of each young person.</b></h6>
+                    </div>
+                    <div class="block-1  mb-4 container-md">
+                        
+                        <img src="/svg/personCen.JPG" alt=""  class="sticker container-md factors d-block">
+                    </div>
+          </div>
+
+          <div class="row-2 rise">
+                    <div class="block-1 mb-4 container-md move-right">
+                    <img src="/svg/HomePix.JPG" alt=""  class="sticker container-md factors d-block ">
+                    </div>
+                    <div class="block-1 first mb-4 container-md">
+                    <div class="factors">
+                            <h2><b>Homely environment</b></h2> 
+                            <img src="/svg/homely.svg" alt=""  class="sticker  factors d-block">
+                             </div>
+                             <h6><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h6>
+                    </div>
+          </div>
+
+          <div class="row-2 rise">
+                    <div class="block-1 first mb-4 container-md move-left">
+                            <div class="factors">
+                            <h2><b>Character development </b></h2> <br>
+                            <img src="/svg/develop.svg" alt="" class="sticker factors d-block">
+                             </div>
+                             
+                             <h6><b>Every young person leaves our care better than they came in, with an outstanding level of skill set enabling them to live a good quality life of independence</b></h6>
+                    </div>
+                    <div class="block-1  mb-4 container-md">
+                        
+                        <img src="/svg/GrowPix.JPG" alt=""  class="sticker container-md factors d-block">
+                    </div>
+          </div>
+
+          <div class="row-2 rise">
+                    <div class="block-1 mb-4 container-md move-right">
+                    <img src="/svg/WorkPix.JPG" alt=""  class="sticker container-md factors d-block ">
+                    </div>
+                    <div class="block-1 first mb-4 container-md">s
+                    <div class="factors">
+                            <h2><b>Work experience and giving back to the community</b></h2>
+                            <img src="/svg/work.svg" alt=""  class="sticker  factors d-block">
+                             </div>
+                        <h6><b>We partner with the best employers in the community where our young people develop work ethics and understand the importance of the community’s needs.</b></h6>
+                    </div>
+          </div>
+<!--
         <div class="first container container-sm mt-3 mb-3 factors move-left">
         <h2><b>Person centered care</b></h2>
         <img src="/svg/personcent.svg" alt="" class="sticker">
         <h6><b>We provide a tailored service approach, which targets the specific needs of each young person.</b></h6>
         </div>
-
-        <br>
-
-        <div class="first container container-sm mt-3 mb-3 factors move-right">
-        <h2><b>Homely environment</b></h2>
-        <img src="/svg/homely.svg" alt="" class="sticker">
-        <h6><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h6>
-        </div>
-
-        <br>
-
-        <div class="first container container-sm mt-3 mb-3 factors move-left">
-        <h2><b>Character development </b></h2>
-        <img src="/svg/develop.svg" alt="" class="sticker">
-        <h6><b>Every young person leaves our care better than they came in, with an outstanding level of skill set enabling them to live a good quality life of independence</b></h6>
-        </div>
-
-        <br>
-
-        <div class="first container container-sm mt-3 mb-3 factors move-right">
-        <h2><b>Work experience and giving back to the community</b></h2>
-        <img src="/svg/work.svg" alt="" class="sticker">
-        <br>
-        <h6><b>We partner with the best employers in the community where our young people develop work ethics and understand the importance of the community’s needs.</b></h6>
-        </div>
-
-        <br>
+-->
+        
 
         <div class=" bill  mt-3 mb-3 factors">
         <h2 class="roll"><b>Tested and Trusted by Local authorities across London</b></h2>
