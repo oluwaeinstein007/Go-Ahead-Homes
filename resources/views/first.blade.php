@@ -195,14 +195,14 @@
                 <div class="row-2 rise">
                     <div class="block-1 first mb-4 container-md move-left">
                             <div class="factors">
-                            <b><h3>Person centered care</h3></b> <br>
+                            <h2><b>Person centered care</b></h2><br>
                             <img src="/svg/personcent.svg" alt=""  class="sticker factors d-block">
                              </div>
                              <h6><b>We provide a tailored service approach, which targets the specific needs of each young person.</b></h6>
                              
                             </div>
                     <div class="block-1 first mb-4 container-md factors move-right">
-                        <b><h3>Homely environment</h3></b> <br>
+                    <h2><b>Homely Environment</b></h2> <br>
                         <img src="/svg/homely.svg" alt=""  class="sticker factors">
                         <h6><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h6>
                         

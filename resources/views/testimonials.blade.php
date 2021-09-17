@@ -74,6 +74,7 @@
 
 
         <h2 class="factors mt-4">Testimonial</h2>
+        <h2 class="factors mt-4">Testimonials and Success Stories</h2>
 
         @if($posts->count())
 
@@ -81,7 +82,7 @@
             <div class="first container container-sm mt-3 mb-3 factors">
                 <h2><b>{{$post->title}}</b></h2>
                 <h6>by <a href="#">{{$post->user->name}}</a> <span>{{$post->created_at->diffForHumans()}}</span></h6>
-                <img src="{{asset($post->picture)}}" alt="" class="sticker">
+                <img src="{{asset($post->picture)}}" alt="" class="sticker factors d-block">
                 <p><b>{{ \Illuminate\Support\Str::limit($post->descrip, 10, $end='...')}}</b><a class="nav-link" href="{{url('/testimonials/'.$post->id)}}">Read More</a></p>
                 
             </div>

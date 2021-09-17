@@ -67,7 +67,7 @@
                     <h2><b>{{$post->title}}</b></h2>
                     <h6>by <a href="#">{{$post->user->name}}</a> <span>{{$post->created_at->diffForHumans()}}</span></h6>
                    
-                    <img src="{{asset($post->picture)}}" alt="" class="sticker">
+                    <img src="{{asset($post->picture)}}" alt="" class="first-img">
                     <p><b> {{$post->descrip}}</b></p>
                 
 

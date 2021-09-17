@@ -72,7 +72,8 @@
         </nav>
 
 
-        <h2 class="factors mt-4">Testimonials & Success Stories</h2>
+       
+        <h2 class="factors mt-4">Testimonials and Success Stories</h2>
 
             <div class="first container container-sm mt-3 mb-3 factors">
                 <h2><b>{{$post->title}}</b></h2>
