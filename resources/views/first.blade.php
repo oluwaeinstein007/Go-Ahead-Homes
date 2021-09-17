@@ -145,6 +145,12 @@
 </div>
 
 
+
+
+
+
+
+
             
 
 
@@ -184,7 +190,48 @@
 
         <h2 class="factors twist">OUR WOW FACTORS</h2>
 
-        <div class="row-2 rise">
+
+<!--Start-->
+                <div class="row-2 rise">
+                    <div class="block-1 first mb-4 container-md move-left">
+                            <div class="factors">
+                            <b><h3>Person centered care</h3></b> <br>
+                            <img src="/svg/personcent.svg" alt=""  class="sticker factors d-block">
+                             </div>
+                             <h6><b>We provide a tailored service approach, which targets the specific needs of each young person.</b></h6>
+                             
+                            </div>
+                    <div class="block-1 first mb-4 container-md factors move-right">
+                        <b><h3>Homely environment</h3></b> <br>
+                        <img src="/svg/homely.svg" alt=""  class="sticker factors">
+                        <h6><b>We go the extra mile to make our homes warm, nurturing and well suited to every individuals need.</b></h6>
+                        
+                    </div>
+                </div>
+
+                <div class="row-2 rise">
+                    <div class="block-1 first mb-4 container-md move-left">
+                            <div class="factors">
+                            <h2><b>Character development </b></h2> <br>
+                            <img src="/svg/develop.svg" alt=""  class="sticker factors d-block">
+                             </div>
+                             <h6><b>Every young person leaves our care better than they came in, with an outstanding level of skill set enabling them to live a good quality life of independence</b></h6>
+                              <br>  <br>
+                            </div>
+                    <div class="block-1 first mb-4 container-md factors move-right">
+                    <h2><b>Work experience and giving back to the community</b></h2> <br>
+                        <img src="/svg/work.svg" alt=""  class="sticker factors">
+                        <h6><b>We partner with the best employers in the community where our young people develop work ethics and understand the importance of the community’s needs.</b></h6>
+                        
+                    </div>
+                </div>
+
+
+<!--End-->
+                  
+
+<!--
+<div class="row-2 rise">
                     <div class="block-1 first mb-4 container-md move-left">
                             <div class="factors">
                             <h2><b>Person centered care</b></h2> <br>
@@ -232,7 +279,7 @@
                     <div class="block-1 mb-4 container-md move-right">
                     <img src="/svg/WorkPix.JPG" alt=""  class="sticker container-md factors d-block ">
                     </div>
-                    <div class="block-1 first mb-4 container-md">s
+                    <div class="block-1 first mb-4 container-md">
                     <div class="factors">
                             <h2><b>Work experience and giving back to the community</b></h2>
                             <img src="/svg/work.svg" alt=""  class="sticker  factors d-block">
@@ -240,7 +287,10 @@
                         <h6><b>We partner with the best employers in the community where our young people develop work ethics and understand the importance of the community’s needs.</b></h6>
                     </div>
           </div>
-<!--
+-->
+
+
+      <!--
         <div class="first container container-sm mt-3 mb-3 factors move-left">
         <h2><b>Person centered care</b></h2>
         <img src="/svg/personcent.svg" alt="" class="sticker">
@@ -249,7 +299,7 @@
 -->
         
 
-        <div class=" bill  mt-3 mb-3 factors">
+  <div class=" bill  mt-3 mb-3 factors">
         <h2 class="roll"><b>Tested and Trusted by Local authorities across London</b></h2>
         </div>
 
