@@ -296,7 +296,7 @@
                         young person is progressing and the set targets are being met.</p>
                     </div>
                     <div class="block-1 first mb-4 container-md">
-                        <h3>Mental health and well being</h3> <br>
+                        <h3 class="factors">Mental health and well being</h3> <br>
                         <img src="/svg/health.svg" alt=""  class="sticker factors">
                         <p>All young people will be registered with the local GP, Dentist and Optician and
                         will be supported by staff to arrange and attend appointments. Keywork
@@ -314,8 +314,8 @@
 
                           
      
-                <div class="plate container-sm container">
-                <h3>WORK EXPERIENCE AND EMPLOYMENT OPPORTUNITIES FOR YOUNG PEOPLE WHO ARE NEET</h3> <br>
+                <div class="plate container-sm container ">
+                <h3 class="factors">WORK EXPERIENCE AND EMPLOYMENT OPPORTUNITIES FOR YOUNG PEOPLE WHO ARE NEET</h3> <br>
                 <div class="factors"><img src="/svg/employ.svg" alt=""  class="sticker"></div>
                 <p>In recognising that we all come from different walks of life, Go Ahead Homes is
                 dedicated to promoting equal opportunities for our young people that will help
@@ -354,6 +354,18 @@
 
 
                 <br>
+
+
+                <div class="row-2 rise">
+                    <div class="block-1 first mb-4 container-md factors">
+                            <div class="factors">
+                            <img src="/svg/personCen.JPG" alt=""  class="sticker factors ">
+                             </div>
+                    </div>
+                    <div class="block-1 first mb-4 container-md factors">
+                        <img src="/svg/HomePix.JPG" alt=""  class="sticker factors">
+                    </div>
+                </div>
 
 
 

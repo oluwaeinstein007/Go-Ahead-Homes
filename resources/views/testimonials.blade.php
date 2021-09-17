@@ -73,7 +73,7 @@
         </nav>
 
 
-        <h2 class="factors mt-4">Testimonial</h2>
+        
         <h2 class="factors mt-4">Testimonials and Success Stories</h2>
 
         @if($posts->count())
