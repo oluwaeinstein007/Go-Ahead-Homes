@@ -357,13 +357,17 @@
 
 
                 <div class="row-2 rise">
-                    <div class="block-1 first mb-4 container-md factors">
-                            <div class="factors">
-                            <img src="/svg/personCen.JPG" alt=""  class="sticker factors ">
-                             </div>
+                    <div class="block-3 mb-4 container-md factors">
+                            <img src="/svg/personCen.JPG" alt=""  class="sticker-2 factors "> 
                     </div>
-                    <div class="block-1 first mb-4 container-md factors">
-                        <img src="/svg/HomePix.JPG" alt=""  class="sticker factors">
+                    <div class="block-3 mb-4 container-md factors">
+                        <img src="/svg/HomePix.JPG" alt=""  class="sticker-2 factors">
+                    </div>
+                    <div class="block-3 mb-4 container-md factors">
+                        <img src="/svg/GrowPix.JPG" alt=""  class="sticker-2 factors">
+                    </div>
+                    <div class="block-3 mb-4 container-md factors">
+                        <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 factors">
                     </div>
                 </div>
 
