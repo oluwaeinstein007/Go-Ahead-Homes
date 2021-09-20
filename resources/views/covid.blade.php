@@ -28,8 +28,8 @@
     </head>
       <body>
  
-      <div class="card-title justify-content-center mt-4 mr-5 ml-2 d-block">
-        Covid protocol
+      <div class="card-title justify-content-center mt-4 mr-5 ml-2 d-block factors">
+        <h2><b>COVID-19 PROTOCOLS</b></h2>
       </div>
      
 
@@ -38,9 +38,10 @@
 
     <div class="card justify-content-center mt-4 mr-2 ml-2">
       <div class="card-title  ml-5 mt-3 mr-5">
-        INTRODUCTION
+        <h4><b>INTRODUCTION</b></h4>
       </div>
-      <div class="card-body">
+      <div class="card-body container">
+      <p>
       This policy outlines how Go Ahead Homes will continue to execute the safe delivery of 
 our service during this COVID-19 pandemic and what actions will be taken in the event 
 of an outbreak within our service.
@@ -65,14 +66,16 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
 nose when an infected person coughs or sneezes, so it’s important that you also 
 practice respiratory etiquette (for example, by coughing into a flexed elbow). <br>
 Source: <a target="_blank" href="https://www.who.int/health-topics/coronavirus#tab=tab_1">Check</a>
+      </p>
 </div>
     </div>
 
     <div class="card justify-content-center mt-4 mr-2 ml-2">
       <div class="card-title ml-5 mt-3 mr-5">
-      SYMPTOMS OF COVID-19
+      <h4><b>SYMPTOMS OF COVID-19</b></h4>
       </div>
-      <div class="card-body">
+      <div class="card-body container">
+      <p>
       The main symptoms of coronavirus are:
       <ul>
         <li>a high temperature – this means you feel hot to touch on your chest or back (you do 
@@ -86,14 +89,16 @@ Source: <a target="_blank" href="https://www.who.int/health-topics/coronavirus#t
       </ul>
       Most people with coronavirus have at least 1 of these symptoms <br>
       Source: <a target="_blank" href="https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/">Check</a>
+      </p>
       </div>     
     </div>
 
     <div class="card justify-content-center mt-4 mr-2 ml-2">
       <div class="card-title ml-5 mt-3 mr-5">
-      GAH KEEPING EVERYONE SAFE:
+      <h4><b>GAH KEEPING EVERYONE SAFE:</b></h4>
       </div>
-      <div class="card-body">
+      <div class="card-body container">
+      <p>
       In a bid to reduce the risk of our service users and staff contracting the COVID-19 virus 
 we have implemented the following changes which will remain in place until further 
 notice (in line with NHS / government guidance):
@@ -118,23 +123,26 @@ another episode of panic buying.</li>
           <li>We are taking all the necessary precautionary measures to prevent the spread of 
 coronavirus within our organisation. In line with this , all staff will be required to take a 
 self swab covid test ( provided in all homes) 24 hours in advance of commencing a shift 
-and test results must be sent to (please fill in Karin).</li>
+and test results must be sent.</li>
           <li>Staff members who test positive will not be permitted to come back to work until they 
 have completed the required isolation period (as specified by government guidance)</li>
           <li>Staff must be transparent and inform management immediately of any positive test 
 results. Failure to do so may result in a dismissal.</li>
         </ul>
+      </p>
       </div>
     </div>
 
 
     <div class="card justify-content-center mt-4 mr-2 ml-2">
       <div class="card-title ml-5 mt-3 mr-5">
-      COVID-19 CASES / OUTBREAK
+      <h4><b>COVID-19 CASES / OUTBREAK</b></h4>
       </div>
-      <div class="card-body">
+      <div class="card-body container">
+      <p>
       The following measures shall come into effect in the event of services users / staff being 
 affected by the coronavirus:
+<br>
         <ul>
           <li>Young people experiencing symptoms of COVID-19 will be instructed to self isolate 
 and supported to arrange for a COVID test . Other residents in the household will also 
@@ -151,14 +159,16 @@ placement.</li>
 groups that they may have been in contact with.
 </li>
         </ul>
+      </p>
       </div>  
     </div>
 
     <div class="card justify-content-center mt-4 mr-2 ml-2">
       <div class="card-title ml-5 mt-3 mr-5">
-      STAFFING
+      <h4><b>STAFFING</b></h4>
       </div>
-      <div class="card-body">
+      <div class="card-body container">
+        <p>
         <li>All Staff are aware that they must notify management immediately if they experience 
 symptoms or have tested positive for coronavirus (or someone in their household) 
 immediately. In this instance, shift cover will be arranged whilst staff members isolate at 
@@ -175,66 +185,19 @@ GAH will continue to follow government guidance and ensure that all of our Servi
 Users and Staff are kept informed of any new rules/ guidelines and of the contribution 
 we are making as a company to reduce the risk of the virus spreading
 
+        </p>
       </div>
     </div>
            
-           <a href="{{ url('/') }}">Back</a>
+           <div class="factors mb-4">
+           <a href="{{ url('/') }}"><button class="btn btn-secondary">Back</button></a>
+           </div>
         
 
+           @extends('layouts.footer')
 
-           <footer>
-        <div class="row">
-          <div class="col">
-            <h3>Social Media <div class="underline"><span></span></div></h3>
-            <div class="social">
-            <i class="fab fa-facebook-f"></i>
-            <i class="fab fa-twitter"></i>
-            <i class="fab fa-linkedin-in"></i>
-            <i class="fab fa-instagram"></i>
-            </div>
-              </div>
-          <div class="col">
-              <h3>OFFICE <div class="underline"><span></span></h3>
-              <p><i class="far fa-building"></i>Suite 2 Fountain House, Elm Park, Stanmore, UK</p>
-              <p class="email-id"><i class="far fa-envelope"></i>info@goaheadhomes.com</p>
-              <p class="email-id"><i class="far fa-envelope"></i>placements@goaheadhomes.com</p>
-              <h4><i class="fas fa-mobile-alt"></i>+44 20 3417 7374</h4>
-          </div>
-          <div class="col">
-            <h3>Partners <div class="underline"><span></span></h3>
-                              <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <img src="/svg/enfield.jpg" class="d-block w-100 slide-img" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                       <img src="/svg/sutton.jpg" class="d-block w-100 slide-img" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="/svg/barking.jpg" class="d-block w-100 slide-img" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="/svg/tower.jpg" class="d-block w-100 slide-img" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="/svg/forrest.png" class="d-block w-100 slide-img" alt="...">
-                      </div>
-                    </div>
-                    <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="sr-only">Next</span>
-                    </a>
-                  </div>
-          </div>
-        </div>
-        <hr>
-        <p class="copyright">Copyright © 2021 Official Go Ahead Homes</p>
-        <p class="copyright">Powered by L'Phi-Hub</p>
-      </footer>  
+            @section('content')
+   
         
     </body>
 </html>

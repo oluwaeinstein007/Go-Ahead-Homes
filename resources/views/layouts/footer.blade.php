@@ -43,7 +43,7 @@
               <p><i class="far fa-building"></i>Suite 2 Fountain House, Elm Park, Stanmore, UK</p>
               <p class="email-id"><a href="mailto:{info@goaheadhomes.com}?subject={subject}&body={content}"><i class="far fa-envelope"></i></a>info@goaheadhomes.com</p>
               <p class="email-id"><a href="mailto:{placements@goaheadhomes.com}?subject={subject}&body={content}"><i class="far fa-envelope"></i></a>placements@goaheadhomes.com</p>
-              <h4><a href="tel:{+442034177374}"><i class="fas fa-mobile-alt"></i></a>+44 20 3417 7374</h4>
+             <!-- <h4><a href="tel:{+442034177374}"><i class="fas fa-mobile-alt"></i></a>+44 20 3417 7374</h4> -->
           </div>
           <div class="col">
             <h3>Partners <div class="underline"><span></span></h3>

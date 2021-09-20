@@ -10203,9 +10203,6 @@ footer {
     float: left;
     width: 25%;
     box-sizing: border-box;
-    padding-left: 3px;
-    margin-bottom: 50px;
-    margin: 2px;
   }
 
   .rescale-caro {
@@ -10220,8 +10217,8 @@ footer {
 
   .sticker-2 {
     height: 350px;
-    width: 300px;
-    padding: 50px;
+    width: 400px;
+    margin-bottom: 20px;
   }
 
   .row-2 {

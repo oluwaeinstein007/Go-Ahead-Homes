@@ -356,20 +356,22 @@
                 <br>
 
 
-                <div class="row-2 rise">
-                    <div class="block-3 mb-4 container-md factors">
-                            <img src="/svg/personCen.JPG" alt=""  class="sticker-2 factors "> 
+               
+               <div class="row-2 rise">
+                    <div class="block-3 ">
+                            <img src="/svg/servPix.JPG" alt=""  class="sticker-2 w-100"> 
                     </div>
-                    <div class="block-3 mb-4 container-md factors">
-                        <img src="/svg/HomePix.JPG" alt=""  class="sticker-2 factors">
+                    <div class="block-3 ">
+                        <img src="/svg/servBaby.JPG" alt=""  class="sticker-2 w-100">
                     </div>
-                    <div class="block-3 mb-4 container-md factors">
-                        <img src="/svg/GrowPix.JPG" alt=""  class="sticker-2 factors">
+                    <div class="block-3">
+                        <img src="/svg/GrowPix.JPG" alt=""  class="sticker-2 w-100">
                     </div>
-                    <div class="block-3 mb-4 container-md factors">
-                        <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 factors">
+                    <div class="block-3 ">
+                        <img src="/svg/HomePix.JPG" alt=""  class="sticker-2 w-100">
                     </div>
                 </div>
+          
 
 
 
