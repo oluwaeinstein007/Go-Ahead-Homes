@@ -188,12 +188,33 @@
 
         <br>
 
+
+        
+        <div class="row-3 rise">
+                    <div class="block-3 ">
+                            <img src="/svg/firstPix1.JPG" alt=""  class="sticker-2 w-100"> 
+                    </div>
+                    <div class="block-3 ">
+                        <img src="/svg/firstPix2.JPG" alt=""  class="sticker-2 w-100">
+                    </div>
+                    <div class="block-3">
+                        <img src="/svg/firstPix3.JPG" alt=""  class="sticker-2 w-100">
+                    </div>
+                    <div class="block-3 ">
+                        <img src="/svg/firstPix4.JPG" alt=""  class="sticker-2 w-100">
+                    </div>
+                </div>
+                <br>
+
+
+                
+
         <h2 class="factors twist">OUR WOW FACTORS</h2>
 
 
 <!--Start-->
                 <div class="row-2 rise">
-                    <div class="block-1 first mb-4 container-md move-left">
+                    <div class="block-1 first mb-4 container-md move-left" >
                             <div class="factors">
                             <h2><b>Person centered care</b></h2><br>
                             <img src="/svg/personcent.svg" alt=""  class="sticker factors d-block">

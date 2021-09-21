@@ -22,7 +22,7 @@
         <meta property="og:description" content="This is the official services page of Go Ahead Homes" />
         <meta property="og:site_name" content="Go Ahead Homes" />
 
-        <title>Official Go Ahead Homes - Services</title
+        <title>Official Go Ahead Homes - Services</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -357,24 +357,67 @@
 
 
                
-               <div class="row-2 rise">
+               <div class="row-3 rise">
                     <div class="block-3 ">
-                            <img src="/svg/servPix.JPG" alt=""  class="sticker-2 w-100"> 
+                                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                        <img src="/svg/servPix4.JPG" alt=""  class="sticker-2 w-100"> 
+                                        </div>
+                                        <div class="carousel-item">
+                                        <img src="/svg/servPix5.JPG" alt=""  class="sticker-2 w-100">
+                                        </div>
+                                    </div>
+                                </div>
                     </div>
                     <div class="block-3 ">
-                        <img src="/svg/servBaby.JPG" alt=""  class="sticker-2 w-100">
+                                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                        <img src="/svg/servPix1.JPG" alt=""  class="sticker-2 w-100">
+                                        </div>
+                                        <div class="carousel-item">
+                                        <img src="/svg/servPix2.PNG" alt=""  class="sticker-2 w-100">
+                                        </div>
+                                        <div class="carousel-item">
+                                        <img src="/svg/servPix3.JPG" alt=""  class="sticker-2 w-100"> 
+                                        </div>
+                                    </div>
+                                </div>
                     </div>
                     <div class="block-3">
-                        <img src="/svg/GrowPix.JPG" alt=""  class="sticker-2 w-100">
+                                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                        <img src="/svg/servPix6.JPG" alt=""  class="sticker-2 w-100"> 
+                                        </div>
+                                        <div class="carousel-item">
+                                        <img src="/svg/servPix7.JPG" alt=""  class="sticker-2 w-100">
+                                        </div>
+                                    </div>
+                                </div>
                     </div>
                     <div class="block-3 ">
-                        <img src="/svg/HomePix.JPG" alt=""  class="sticker-2 w-100">
+                                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                        <img src="/svg/servPix8.JPG" alt=""  class="sticker-2 w-100">
+                                        </div>
+                                        <div class="carousel-item">
+                                        <img src="/svg/servPix9.JPG" alt=""  class="sticker-2 w-100">
+                                        </div>
+                                        <div class="carousel-item">
+                                        <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 w-100">
+                                        </div>
+                                    </div>
+                                </div>
                     </div>
                 </div>
           
 
 
-
+                
+          
 
         
 

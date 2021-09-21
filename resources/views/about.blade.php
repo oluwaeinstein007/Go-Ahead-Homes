@@ -203,20 +203,76 @@
                
                   <!--end check-->
 
-                  <div class="row-2 rise">
-                    <div class="block-3 ">
-                            <img src="/svg/personCen.JPG" alt=""  class="sticker-2 w-100"> 
-                    </div>
-                    <div class="block-3 ">
-                        <img src="/svg/HomePix.JPG" alt=""  class="sticker-2 w-100">
-                    </div>
-                    <div class="block-3">
-                        <img src="/svg/aboutPix.JPG" alt=""  class="sticker-2 w-100">
-                    </div>
-                    <div class="block-3 ">
-                        <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 w-100">
-                    </div>
-                </div>
+                  
+
+                                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <div class="row-2">
+                                                <div class="block-3 ">
+                                                        <img src="/svg/aboutPix1.JPG" alt=""  class="sticker-2 w-100"> 
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/aboutPix2.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3">
+                                                    <img src="/svg/aboutPix3.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="row-2">
+                                                <div class="block-3 ">
+                                                        <img src="/svg/aboutPix2.JPG" alt=""  class="sticker-2 w-100"> 
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/aboutPix3.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3">
+                                                    <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/aboutPix1.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="row-2">
+                                                <div class="block-3 ">
+                                                        <img src="/svg/aboutPix3.JPG" alt=""  class="sticker-2 w-100"> 
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3">
+                                                    <img src="/svg/aboutPix1.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/aboutPix2.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <div class="row-2">
+                                                <div class="block-3 ">
+                                                        <img src="/svg/WorkPix.JPG" alt=""  class="sticker-2 w-100"> 
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/aboutPix1.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3">
+                                                    <img src="/svg/aboutPix2.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                                <div class="block-3 ">
+                                                    <img src="/svg/aboutPix3.JPG" alt=""  class="sticker-2 w-100">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
 
               
                 

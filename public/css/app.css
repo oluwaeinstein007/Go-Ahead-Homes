@@ -10076,6 +10076,13 @@ h3 {
   justify-content: center;
 }
 
+.row-3 {
+  width: 97%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
 .first-img {
   height: 200px;
   width: 200px;
