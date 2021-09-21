@@ -362,10 +362,10 @@
                                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                        <img src="/svg/servPix4.JPG" alt=""  class="sticker-2 w-100"> 
+                                        <img src="/svg/servPix4.jpg" alt=""  class="sticker-2 w-100"> 
                                         </div>
                                         <div class="carousel-item">
-                                        <img src="/svg/servPix5.JPG" alt=""  class="sticker-2 w-100">
+                                        <img src="/svg/servPix5.jpg" alt=""  class="sticker-2 w-100">
                                         </div>
                                     </div>
                                 </div>
@@ -374,13 +374,13 @@
                                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                        <img src="/svg/servPix1.JPG" alt=""  class="sticker-2 w-100">
+                                        <img src="/svg/servPix1.jpg" alt=""  class="sticker-2 w-100">
                                         </div>
                                         <div class="carousel-item">
-                                        <img src="/svg/servPix2.PNG" alt=""  class="sticker-2 w-100">
+                                        <img src="/svg/servPix2.png" alt=""  class="sticker-2 w-100">
                                         </div>
                                         <div class="carousel-item">
-                                        <img src="/svg/servPix3.JPG" alt=""  class="sticker-2 w-100"> 
+                                        <img src="/svg/servPix3.jpg" alt=""  class="sticker-2 w-100"> 
                                         </div>
                                     </div>
                                 </div>
@@ -392,7 +392,7 @@
                                         <img src="/svg/servPix6.JPG" alt=""  class="sticker-2 w-100"> 
                                         </div>
                                         <div class="carousel-item">
-                                        <img src="/svg/servPix7.JPG" alt=""  class="sticker-2 w-100">
+                                        <img src="/svg/servPix7.jpg" alt=""  class="sticker-2 w-100">
                                         </div>
                                     </div>
                                 </div>
@@ -401,7 +401,7 @@
                                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                        <img src="/svg/servPix8.JPG" alt=""  class="sticker-2 w-100">
+                                        <img src="/svg/servPix8.jpg" alt=""  class="sticker-2 w-100">
                                         </div>
                                         <div class="carousel-item">
                                         <img src="/svg/servPix9.JPG" alt=""  class="sticker-2 w-100">
