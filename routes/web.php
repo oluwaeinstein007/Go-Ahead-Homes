@@ -1,10 +1,13 @@
 <?php
+if (!(App::environment('local'))) {
+    URL::forceScheme('https');
+}
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\NewsController;
-use App\Http\Controllers\TestimonialsController; 
-use App\Http\Controllers\EnquiryController; 
+use App\Http\Controllers\TestimonialsController;
+use App\Http\Controllers\EnquiryController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
